@@ -138,7 +138,26 @@ Hooks.once('init', () => {
     lang: 'it',
     dir: "compendium",
     entries: {
-      "dnd5e.rules": "dnd5e.rules.json"
+      "dnd5e.rules": "dnd5e.rules.json",
+      "dnd5e.backgrounds": "dnd5e.backgrounds.json",
+      "dnd5e.classes": "dnd5e.classes.json",
+      "dnd5e.classes24": "dnd5e.classes24.json",
+      "dnd5e.classfeatures": "dnd5e.classfeatures.json",
+      "dnd5e.content24": "dnd5e.content24.json",
+      "dnd5e.equipment24": "dnd5e.equipment24.json",
+      "dnd5e.feats24": "dnd5e.feats24.json",
+      "dnd5e.heroes": "dnd5e.heroes.json",
+      "dnd5e.items": "dnd5e.items.json",
+      "dnd5e.monsterfeatures": "dnd5e.monsterfeatures.json",
+      "dnd5e.monsters": "dnd5e.monsters.json",
+      "dnd5e.origins24": "dnd5e.origins24.json",
+      "dnd5e.races": "dnd5e.races.json",
+      "dnd5e.spells": "dnd5e.spells.json",
+      "dnd5e.spells24": "dnd5e.spells24.json",
+      "dnd5e.subclasses": "dnd5e.subclasses.json",
+      "dnd5e.tables": "dnd5e.tables.json",
+      "dnd5e.tradegoods": "dnd5e.tradegoods.json",
+      "dnd5e.actors24": "dnd5e.actors24.json"
     }
   });
 });

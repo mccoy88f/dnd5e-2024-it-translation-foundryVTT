@@ -2,7 +2,7 @@
   "id": "dnd5e-it-translation",
   "title": "Traduzione Italiana per D&D 5e",
   "description": "Modulo di traduzione in italiano per il sistema D&D 5e in Foundry VTT.",
-  "version": "2.1.0",
+  "version": "2.2.0",
   "compatibility": {
     "minimum": "13",
     "verified": "13.351",
@@ -61,7 +61,7 @@
             ]
         }
       ], 
-  "manifest": "https://github.com/LuckyFrico/dnd5e-it-translation-foundryVTT/releases/latest/download/module.json",
-  "download": "https://github.com/LuckyFrico/dnd5e-it-translation-foundryVTT/releases/download/v2.1.0/module.zip",
-  "url": "https://github.com/LuckyFrico/dnd5e-it-translation-foundryVTT"
+  "manifest": "https://github.com/mccoy88f/dnd5e-2024-it-translation-foundryVTT/releases/latest/download/module.json",
+  "download": "https://github.com/mccoy88f/dnd5e-2024-it-translation-foundryVTT/releases/download/v2.2.0/module.zip",
+  "url": "https://github.com/mccoy88f/dnd5e-2024-it-translation-foundryVTT"
 }

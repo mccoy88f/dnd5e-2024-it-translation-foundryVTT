@@ -1,0 +1,79 @@
+{
+  "label": "Attori 2024",
+  "mapping": {
+    "alignment": {
+      "path": "data.details.alignment",
+      "converter": "alignement"
+    },
+    "senses": {
+      "path": "data.traits.senses",
+      "converter": "senses"
+    },
+    "movement": {
+      "path": "data.attributes.movement",
+      "converter": "movement"
+    },
+    "languages": {
+      "path": "data.traits.languages.custom",
+      "converter": "languages"
+    },
+    "di": {
+      "path": "data.traits.di.custom",
+      "converter": "di"
+    },
+    "dr": {
+      "path": "data.traits.dr.custom",
+      "converter": "di"
+    },
+    "token": {
+      "path": "token",
+      "converter": "token"
+    },
+    "image": {
+      "path": "img",
+      "converter": "img"
+    }
+  },
+  "entries": [
+    {
+      "id": "mmAboleth0000000",
+      "name": "Aboleth"
+    },
+    {
+      "id": "mmChuul000000000",
+      "name": "Chuul"
+    },
+    {
+      "id": "mmCloaker0000000",
+      "name": "Manto Assassino"
+    },
+    {
+      "id": "mmDarkmantle0000",
+      "name": "Mantoscuro"
+    },
+    {
+      "id": "mmGibberingMouth",
+      "name": "Fauce Gorgogliante"
+    },
+    {
+      "id": "mmGrick000000000",
+      "name": "Grick"
+    },
+    {
+      "id": "mmGrimlock000000",
+      "name": "Grimlock"
+    },
+    {
+      "id": "mmOtyugh00000000",
+      "name": "Otyugh"
+    },
+    {
+      "id": "mmRoper000000000",
+      "name": "Fustigatore"
+    },
+    {
+      "id": "mmAllosaurus0000",
+      "name": "Allosauro"
+    }
+  ]
+}
