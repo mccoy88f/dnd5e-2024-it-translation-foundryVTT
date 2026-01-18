@@ -5,7 +5,7 @@
 # 1. Fa il push del codice e del tag
 # 2. Crea la release su GitHub con il file ZIP
 
-VERSION="2.3.0"
+VERSION="2.4.0"
 ZIP_NAME="module.zip"
 REPO="mccoy88f/dnd5e-2024-it-translation-foundryVTT"
 
@@ -42,24 +42,30 @@ gh release create "v$VERSION" \
     --title "v$VERSION" \
     --notes "## Release v$VERSION
 
-### ✨ Nuove Traduzioni
-- ✅ **Mostri 2024** (actors24): 388 mostri tradotti (100%)
-- ✅ **Classi 2024** (classes24): 228 classi/caratteristiche tradotte (80.9%)
-- ✅ **Incantesimi 2024** (spells24): 341 incantesimi tradotti (100%)
-- ✅ **Equipaggiamento 2024** (equipment24): 503 oggetti tradotti (84.8%)
-- ✅ **Talenti 2024** (feats24): 17 talenti tradotti (100%)
-- ✅ **Caratteristiche Mostri** (monsterfeatures): traduzioni completate
-- ✅ **Caratteristiche Classe** (classfeatures): traduzioni completate
+### ✨ Nuove Funzionalità
+- ✅ **Script Traduzione API**: Aggiunto `translate_missing_via_api.py` per traduzioni automatiche da quintaedizione.online
+- ✅ **Script Estrazione PDF**: Aggiunto `extract_translations_from_pdf.py` per estrarre traduzioni dai PDF SRD
+- ✅ **Contenuto Regole**: Estratto contenuto completo (92 pagine) per `dnd5e.rules.json`
 
-### 🔧 Miglioramenti
-- ✅ Riutilizzate traduzioni 2014 (SRD) per caratteristiche comuni tra 2014 e 2024
-- ✅ Migliorato matching automatico delle traduzioni esistenti
-- ✅ Aggiunto supporto per tutti i compendium 2024
+### 📖 Traduzioni Regole (dnd5e.rules)
+- ✅ **Contenuto estratto**: 92 pagine con contenuto inglese completo (da file YAML originali)
+- ✅ **Stato**: Contenuto pronto per traduzione (inglese → italiano)
+- ⚠️  **Da fare**: Traduzione italiana del contenuto (90 pagine in inglese + 24 solo titolo)
 
-### 📊 Statistiche
-- **Totale voci tradotte automaticamente**: ~3800+ voci
-- **Compendium completati**: 20/20
-- **Metodo**: Riutilizzo intelligente delle traduzioni 2014 + dizionari comuni
+### 🛠️ Strumenti Aggiunti
+- 📄 `translate_missing_via_api.py`: Script per tradurre voci mancanti via API quintaedizione.online
+- 📄 `extract_translations_from_pdf.py`: Script per estrarre traduzioni dai PDF SRD italiani
+- 📄 `translate_rules.py`: Script per estrarre contenuto regole da file YAML originali
+
+### 📊 Stato Traduzioni
+- **Traduzioni complete**: ~1515/1819 voci (83.3%)
+- **Da tradurre via API**: ~190 voci (spells24, classes24, equipment24, monsterfeatures)
+- **Da tradurre PDF/manuale**: 114 pagine regole
+
+### 🔧 Miglioramenti Tecnici
+- ✅ Estrazione automatica contenuto regole da YAML originali
+- ✅ Preparazione infrastruttura per traduzioni API
+- ✅ Supporto estrazione traduzioni da PDF SRD italiano
 
 ### 📦 Installazione
 Usa questo URL per installare il modulo in Foundry VTT:
