@@ -1,0 +1,141 @@
+{
+  "note": "Traduzioni che potrebbero richiedere revisione manuale",
+  "total": 27,
+  "needs_review": [
+    {
+      "id": "mmAnimatedRugOfS",
+      "name_en": "Animated Rug of Smothering",
+      "name_it": "Tappeto Soffocante"
+    },
+    {
+      "id": "dmgApparatusofKw",
+      "name_en": "Apparatus of the Crab",
+      "name_it": "Granchio"
+    },
+    {
+      "id": "dmgAvatarofDeath",
+      "name_en": "Avatar of Death",
+      "name_it": "Avatar della Morte"
+    },
+    {
+      "id": "mmAzerSentinel00",
+      "name_en": "Azer Sentinel",
+      "name_it": "Azer"
+    },
+    {
+      "id": "dmg3x5CarpetofFl",
+      "name_en": "Carpet of Flying (3 by 5 ft.)",
+      "name_it": "Tappeto Volante (3x5 piedi)"
+    },
+    {
+      "id": "dmg4x6CarpetofFl",
+      "name_en": "Carpet of Flying (4 by 6 ft.)",
+      "name_it": "Tappeto Volante (4x6 piedi)"
+    },
+    {
+      "id": "dmg5x7CarpetofFl",
+      "name_en": "Carpet of Flying (5 by 7 ft.)",
+      "name_it": "Tappeto Volante (5x7 piedi)"
+    },
+    {
+      "id": "dmg6x9CarpetofFl",
+      "name_en": "Carpet of Flying (6 by 9 ft.)",
+      "name_it": "Tappeto Volante (6x9 piedi)"
+    },
+    {
+      "id": "phbmobDraconicSp",
+      "name_en": "Draconic Spirit",
+      "name_it": "Oni"
+    },
+    {
+      "id": "mmElk00000000000",
+      "name_en": "Elk",
+      "name_it": "Alce"
+    },
+    {
+      "id": "mmFrog0000000000",
+      "name_en": "Frog",
+      "name_it": "Rana"
+    },
+    {
+      "id": "dmgGoatofTraveli",
+      "name_en": "Goat of Traveling",
+      "name_it": "Capra"
+    },
+    {
+      "id": "phbsplGuardianof",
+      "name_en": "Guardian of Faith",
+      "name_it": "Guardiano della Fede"
+    },
+    {
+      "id": "mmHydra000000000",
+      "name_en": "Hydra",
+      "name_it": "Idra"
+    },
+    {
+      "id": "mmHyena000000000",
+      "name_en": "Hyena",
+      "name_it": "Iena"
+    },
+    {
+      "id": "mmMage0000000000",
+      "name_en": "Mage",
+      "name_it": "Mago"
+    },
+    {
+      "id": "mmMinotaurOfBaph",
+      "name_en": "Minotaur of Baphomet",
+      "name_it": "Minotauro"
+    },
+    {
+      "id": "mmMule0000000000",
+      "name_en": "Mule",
+      "name_it": "Mulo"
+    },
+    {
+      "id": "mmOwl00000000000",
+      "name_en": "Owl",
+      "name_it": "Gufo"
+    },
+    {
+      "id": "mmPirate00000000",
+      "name_en": "Pirate",
+      "name_it": "Topo"
+    },
+    {
+      "id": "mmPirateCaptain0",
+      "name_en": "Pirate Captain",
+      "name_it": "Topo"
+    },
+    {
+      "id": "mmRat00000000000",
+      "name_en": "Rat",
+      "name_it": "Topo"
+    },
+    {
+      "id": "mmSphinxOfLore00",
+      "name_en": "Sphinx of Lore",
+      "name_it": "Sfinge della Conoscenza"
+    },
+    {
+      "id": "mmSphinxOfValor0",
+      "name_en": "Sphinx of Valor",
+      "name_it": "Sfinge del Valore"
+    },
+    {
+      "id": "mmSphinxOfWonder",
+      "name_en": "Sphinx of Wonder",
+      "name_it": "Sfinge della Meraviglia"
+    },
+    {
+      "id": "mmSpy00000000000",
+      "name_en": "Spy",
+      "name_it": "Spia"
+    },
+    {
+      "id": "mmWolf0000000000",
+      "name_en": "Wolf",
+      "name_it": "Lupo"
+    }
+  ]
+}

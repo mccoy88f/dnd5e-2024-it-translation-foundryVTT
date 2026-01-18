@@ -3,7 +3,7 @@
 # Script per creare il file ZIP per la release di Foundry VTT
 # Esclude file non necessari come .git, origin/, foundry-translation/, etc.
 
-VERSION="2.2.0"
+VERSION="2.3.0"
 ZIP_NAME="module.zip"
 TEMP_DIR=$(mktemp -d)
 

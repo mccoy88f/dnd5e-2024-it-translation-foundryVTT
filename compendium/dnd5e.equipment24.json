@@ -1,4 +1,1343 @@
 {
 	"label": "Equipaggiamento",
-	"entries": {}
+	"entries": {
+		"Acid": {
+			"name": "Freccia Acida"
+		},
+		"Alchemist's Fire": {
+			"name": "Fuoco dell'Alchimista"
+		},
+		"Arrows": {
+			"name": "Frecce"
+		},
+		"Bolts": {
+			"name": "Martello dei Fulmini"
+		},
+		"Bullets, Sling": {
+			"name": "Fionda"
+		},
+		"Antitoxin": {
+			"name": "Antitossina"
+		},
+		"Ball Bearings": {
+			"name": "Biglie di Metallo"
+		},
+		"Bedroll": {
+			"name": "Giaciglio"
+		},
+		"Bell": {
+			"name": "Campanella"
+		},
+		"Blanket": {
+			"name": "Coperta"
+		},
+		"Block and Tackle": {
+			"name": "Carrucola e Paranco"
+		},
+		"Book": {
+			"name": "Libro"
+		},
+		"Candle": {
+			"name": "Candela"
+		},
+		"Crowbar": {
+			"name": "Piede di Porco"
+		},
+		"Hooded Lantern": {
+			"name": "Lanterna Schermabile"
+		},
+		"Rations": {
+			"name": "Razioni (1 giornata)"
+		},
+		"Rope": {
+			"name": "Trucco della Corda"
+		},
+		"Tinderbox": {
+			"name": "Acciarino e Pietra Focaia"
+		},
+		"Caltrops": {
+			"name": "Triboli"
+		},
+		"Chain": {
+			"name": "Catena di Fulmini"
+		},
+		"Climber's Kit": {
+			"name": "Kit da Scalatore"
+		},
+		"Costume": {
+			"name": "Abiti, Costume"
+		},
+		"Fine Clothes": {
+			"name": "Abito, Pregiato"
+		},
+		"Ink Pen": {
+			"name": "Pennino"
+		},
+		"Lamp": {
+			"name": "Lampada"
+		},
+		"Paper": {
+			"name": "Carta (Un Foglio)"
+		},
+		"Parchment": {
+			"name": "Pergamena"
+		},
+		"Perfume": {
+			"name": "Profumo"
+		},
+		"Torch": {
+			"name": "Torcia"
+		},
+		"Bullseye Lantern": {
+			"name": "Lanterna a Lente Sporgente"
+		},
+		"Mirror": {
+			"name": "Immagine Speculare"
+		},
+		"Grappling Hook": {
+			"name": "Rampino"
+		},
+		"Healer's Kit": {
+			"name": "Borsa del Guaritore"
+		},
+		"Holy Water": {
+			"name": "Acqua Santa"
+		},
+		"Hunting Trap": {
+			"name": "Tagliola"
+		},
+		"Ladder": {
+			"name": "Scala (3 metri)"
+		},
+		"Lock": {
+			"name": "Serratura"
+		},
+		"Magnifying Glass": {
+			"name": "Lente da Ingrandimento"
+		},
+		"Manacles": {
+			"name": "Manette"
+		},
+		"Net": {
+			"name": "Rete"
+		},
+		"Pole": {
+			"name": "Pala"
+		},
+		"Potion of Healing": {
+			"name": "Pozione di Guarigione"
+		},
+		"Robe": {
+			"name": "Tunica degli Occhi"
+		},
+		"Shovel": {
+			"name": "Pala"
+		},
+		"Signal Whistle": {
+			"name": "Fischietto Segnalatore"
+		},
+		"Spell Scroll, Cantrip": {
+			"name": "Pergamena Magica di Trucchetto"
+		},
+		"Crystal": {
+			"name": "Cristallo"
+		},
+		"Orb": {
+			"name": "Globo"
+		},
+		"Rod": {
+			"name": "Verga"
+		},
+		"Staff": {
+			"name": "Verga"
+		},
+		"Wand": {
+			"name": "Bacchetta"
+		},
+		"Sprig of mistletoe": {
+			"name": "Rametto di Vischio"
+		},
+		"Wooden staff": {
+			"name": "Bastone di Legno"
+		},
+		"Yew wand": {
+			"name": "Bacchetta di Tasso"
+		},
+		"Amulet": {
+			"name": "Amuleto"
+		},
+		"Emblem": {
+			"name": "Emblema"
+		},
+		"Reliquary": {
+			"name": "Reliquario"
+		},
+		"Spikes, Iron": {
+			"name": "Picca"
+		},
+		"Spyglass": {
+			"name": "Cannocchiale"
+		},
+		"Tent": {
+			"name": "Tentacoli Neri di Evard"
+		},
+		"Chain Mail": {
+			"name": "Cotta di Maglia"
+		},
+		"Plate Armor": {
+			"name": "Armatura Completa"
+		},
+		"Ring Mail": {
+			"name": "Armatura ad Anelli"
+		},
+		"Splint Armor": {
+			"name": "Corazza a Strisce"
+		},
+		"Leather Armor": {
+			"name": "Armatura di Cuoio"
+		},
+		"Padded Armor": {
+			"name": "Armatura Imbottita"
+		},
+		"Studded Leather Armor": {
+			"name": "Armatura in Cuoio Borchiato"
+		},
+		"Animated Shield": {
+			"name": "Scudo Animato"
+		},
+		"Armor of Invulnerability": {
+			"name": "Armatura dell'Invulnerabilità"
+		},
+		"Armor of Resistance": {
+			"name": "Resistenza"
+		},
+		"Armor of Vulnerability": {
+			"name": "Armatura della Vulnerabilità"
+		},
+		"Arrow-Catching Shield": {
+			"name": "Scudo Catturafrecce"
+		},
+		"Demon Armor": {
+			"name": "Armatura Demoniaca"
+		},
+		"Dragon Scale Mail": {
+			"name": "Corazza di Scaglie di Drago"
+		},
+		"Dwarven Plate": {
+			"name": "Armatura Completa Nanica"
+		},
+		"Elven Chain": {
+			"name": "Giaco di Maglia Elfico"
+		},
+		"Glamoured Studded Leather": {
+			"name": "Armatura di Cuoio Borchiato Incantata"
+		},
+		"Plate Armor of Etherealness": {
+			"name": "Armatura Completa della Forma Eterea"
+		},
+		"Sentinel Shield": {
+			"name": "Scudo"
+		},
+		"Shield, +1, +2, or +3": {
+			"name": "Scudo"
+		},
+		"Shield of Missile Attraction": {
+			"name": "Scudo Attiraproiettili"
+		},
+		"Shield of the Cavalier": {
+			"name": "Scudo"
+		},
+		"Spellguard Shield": {
+			"name": "Scudo Anti-Incantesimi"
+		},
+		"Breastplate": {
+			"name": "Corazza a Piastre"
+		},
+		"Chain Shirt": {
+			"name": "Giaco di Maglia"
+		},
+		"Half Plate Armor": {
+			"name": "Mezza Armatura"
+		},
+		"Hide Armor": {
+			"name": "Armatura di Pelle"
+		},
+		"Scale Mail": {
+			"name": "Armatura a Scaglie"
+		},
+		"Shield": {
+			"name": "Scudo"
+		},
+		"Bag of Beans": {
+			"name": "Borsa dei Fagioli Magici"
+		},
+		"Bead of Force": {
+			"name": "Biglia di Forza"
+		},
+		"Candle of Invocation": {
+			"name": "Candela dell'Invocazione"
+		},
+		"Dust of Disappearance": {
+			"name": "Polvere della Sparizione"
+		},
+		"Dust of Dryness": {
+			"name": "Polvere Prosciugante"
+		},
+		"Dust of Sneezing and Choking": {
+			"name": "Polvere dello Starnuto e del Soffocamento"
+		},
+		"Elemental Gem": {
+			"name": "Gemma Elementale dell'aria"
+		},
+		"Feather Token": {
+			"name": "Piuma Arcana dell'Ancora"
+		},
+		"Feather Token (Anchor)": {
+			"name": "Piuma Arcana dell'Ancora"
+		},
+		"Feather Token (Bird)": {
+			"name": "Piuma Arcana dell'Uccello"
+		},
+		"Feather Token (Fan)": {
+			"name": "Piuma Arcana del Ventaglio"
+		},
+		"Feather Token (Swan Boat)": {
+			"name": "Piuma Arcana della Barca Cigno"
+		},
+		"Feather Token (Tree)": {
+			"name": "Piuma Arcana dell'Albero"
+		},
+		"Feather Token (Whip)": {
+			"name": "Piuma Arcana della Frusta"
+		},
+		"Oil of Etherealness": {
+			"name": "Olio di Forma Eterea"
+		},
+		"Oil of Sharpness": {
+			"name": "Olio di Affilatezza"
+		},
+		"Oil of Slipperiness": {
+			"name": "Olio di Scivolosità"
+		},
+		"Truth Serum": {
+			"name": "Siero Della Verità"
+		},
+		"Potion of Healing (Greater)": {
+			"name": "Guarigione"
+		},
+		"Potion of Healing (Superior)": {
+			"name": "Guarigione"
+		},
+		"Potion of Healing (Supreme)": {
+			"name": "Guarigione"
+		},
+		"Philter of Love": {
+			"name": "Filtro d'Amore"
+		},
+		"Potion of Animal Friendship": {
+			"name": "Pozione di Amicizia con gli Animali"
+		},
+		"Potion of Clairvoyance": {
+			"name": "Pozione di Chiaroveggenza"
+		},
+		"Potion of Climbing": {
+			"name": "Pozione di Arrampicata"
+		},
+		"Potion of Diminution": {
+			"name": "Pozione di Rimpicciolimento"
+		},
+		"Potion of Flying": {
+			"name": "Pozione di Volo"
+		},
+		"Potion of Gaseous Form": {
+			"name": "Pozione di Forma Gassosa"
+		},
+		"Potion of Growth": {
+			"name": "Pozione di Crescita"
+		},
+		"Potion of Heroism": {
+			"name": "Pozione di Eroismo"
+		},
+		"Potion of Invisibility": {
+			"name": "Pozione di Invisibilità"
+		},
+		"Potion of Mind Reading": {
+			"name": "Pozione di Lettura del Pensiero"
+		},
+		"Potion of Poison": {
+			"name": "Pozione di Veleno"
+		},
+		"Potion of Speed": {
+			"name": "Pozione di Velocità"
+		},
+		"Potion of Water Breathing": {
+			"name": "Pozione di Respirare Sott’Acqua"
+		},
+		"Spell Scroll": {
+			"name": "Pergamena Magica di 1° Livello"
+		},
+		"Spell Scroll, 1st Level": {
+			"name": "Pergamena Magica di 1° Livello"
+		},
+		"Spell Scroll, 2nd Level": {
+			"name": "Pergamena Magica di 2° Livello"
+		},
+		"Spell Scroll, 3rd Level": {
+			"name": "Pergamena Magica di 3° Livello"
+		},
+		"Spell Scroll, 4th Level": {
+			"name": "Pergamena Magica di 4° Livello"
+		},
+		"Spell Scroll, 5th Level": {
+			"name": "Pergamena Magica di 5° Livello"
+		},
+		"Spell Scroll, 6th Level": {
+			"name": "Pergamena Magica di 6° Livello"
+		},
+		"Spell Scroll, 7th Level": {
+			"name": "Pergamena Magica di 7° Livello"
+		},
+		"Spell Scroll, 8th Level": {
+			"name": "Pergamena Magica di 8° Livello"
+		},
+		"Spell Scroll, 9th Level": {
+			"name": "Pergamena Magica di 9° Livello"
+		},
+		"Sovereign Glue": {
+			"name": "Colla Meravigliosa"
+		},
+		"Universal Solvent": {
+			"name": "Solvente Universale"
+		},
+		"Activate Folding Boat": {
+			"name": "Barca Pieghevole"
+		},
+		"Amulet of Health": {
+			"name": "Amuleto della Salute"
+		},
+		"Amulet of Proof against Detection and Location": {
+			"name": "Amuleto Anti-Individuazione e Localizzazione"
+		},
+		"Amulet of the Planes": {
+			"name": "Amuleto dei Piani"
+		},
+		"Apparatus of the Crab": {
+			"name": "Apparato del Granchio"
+		},
+		"Belt of Dwarvenkind": {
+			"name": "Cintura Nanica"
+		},
+		"Boots of Elvenkind": {
+			"name": "Stivali Elfici"
+		},
+		"Boots of Levitation": {
+			"name": "Stivali della Levitazione"
+		},
+		"Boots of Speed": {
+			"name": "Stivali della Velocità"
+		},
+		"Boots of Striding and Springing": {
+			"name": "Stivali Molleggiati"
+		},
+		"Boots of the Winterlands": {
+			"name": "Stivali dell'Inverno"
+		},
+		"Bowl of Commanding Water Elementals": {
+			"name": "Boccia del Comando degli Elementali Dell’Acqua"
+		},
+		"Bracers of Archery": {
+			"name": "Bracciali dell'Arciere"
+		},
+		"Bracers of Defense": {
+			"name": "Bracciali della Difesa"
+		},
+		"Brazier of Commanding Fire Elementals": {
+			"name": "Braciere del Comando degli Elementali del Fuoco"
+		},
+		"Brooch of Shielding": {
+			"name": "Fermaglio dello Scudo"
+		},
+		"Broom of Flying": {
+			"name": "Scopa Volante"
+		},
+		"Cape of the Mountebank": {
+			"name": "Cappa del Saltimbanco"
+		},
+		"Carpet of Flying": {
+			"name": "Tappeto Volante"
+		},
+		"Censer of Controlling Air Elementals": {
+			"name": "Incensiere del Controllo degli Elementali Dell’Aria"
+		},
+		"Chime of Opening": {
+			"name": "Campana dell'Apertura"
+		},
+		"Circlet of Blasting": {
+			"name": "Diadema Incandescente"
+		},
+		"Cloak of Arachnida": {
+			"name": "Mantello dell’Aracnide"
+		},
+		"Cloak of Displacement": {
+			"name": "Mantello Distorcente"
+		},
+		"Cloak of Elvenkind": {
+			"name": "Mantello Elfico"
+		},
+		"Cloak of Protection": {
+			"name": "Mantello della Protezione"
+		},
+		"Cloak of the Bat": {
+			"name": "Mantello del Pipistrello"
+		},
+		"Cloak of the Manta Ray": {
+			"name": "Mantello della Manta"
+		},
+		"Crystal Ball of Mind Reading": {
+			"name": "Sfera di Cristallo della Lettura del Pensiero"
+		},
+		"Crystal Ball of Telepathy": {
+			"name": "Sfera di Cristallo della Telepatia"
+		},
+		"Crystal Ball of True Seeing": {
+			"name": "Sfera di Cristallo della Visione del Vero"
+		},
+		"Crystal Ball": {
+			"name": "Sfera di Cristallo"
+		},
+		"Cube of Force": {
+			"name": "Cubo di Forza"
+		},
+		"Cubic Gate": {
+			"name": "Cubo dei Portali"
+		},
+		"Decanter of Endless Water": {
+			"name": "Caraffa dell'Acqua Eterna"
+		},
+		"Deck of Illusions": {
+			"name": "Mazzo delle Illusioni"
+		},
+		"Dimensional Shackles": {
+			"name": "Manette Dimensionali"
+		},
+		"Dragon Orb": {
+			"name": "Globo"
+		},
+		"Eversmoking Bottle": {
+			"name": "Bottiglia del Fumo Perenne"
+		},
+		"Eyes of Charming": {
+			"name": "Lenti dello Charme"
+		},
+		"Eyes of Minute Seeing": {
+			"name": "Lenti della Visione Dettagliata"
+		},
+		"Eyes of the Eagle": {
+			"name": "Lenti dell'Aquila"
+		},
+		"Figurine of Wondrous Power": {
+			"name": "Statuina del Potere Meraviglioso del Grifone di Bronzo"
+		},
+		"Bronze Griffon": {
+			"name": "Statuina del Potere Meraviglioso del Grifone di Bronzo"
+		},
+		"Ebony Fly": {
+			"name": "Volare"
+		},
+		"Golden Lions": {
+			"name": "Statuina del Potere Meraviglioso dei Leoni d'Oro"
+		},
+		"Marble Elephant": {
+			"name": "Statuina del Potere Meraviglioso dell'Elefante di Marmo"
+		},
+		"Obsidian Steed": {
+			"name": "Statuina del Potere Meraviglioso dello Stallone di Ossidiana"
+		},
+		"Onyx Dog": {
+			"name": "Statuina del Potere Meraviglioso del Cane d'Onice"
+		},
+		"Serpentine Owl": {
+			"name": "Statuina del Potere Meraviglioso del Gufo di Serpentino"
+		},
+		"Silver Raven": {
+			"name": "Statuina del Potere Meraviglioso del Corvo d'Argento"
+		},
+		"Gauntlets of Ogre Power": {
+			"name": "Guanti del Potere Orchesco"
+		},
+		"Gem of Brightness": {
+			"name": "Gemma della Luminosità"
+		},
+		"Gem of Seeing": {
+			"name": "Gemma della Visione"
+		},
+		"Gloves of Missile Snaring": {
+			"name": "Guanti Catturaproiettili"
+		},
+		"Gloves of Swimming and Climbing": {
+			"name": "Guanti del Nuotare e Scalare"
+		},
+		"Goggles of Night": {
+			"name": "Occhiali della Notte"
+		},
+		"Hat of Disguise": {
+			"name": "Cappello del Camuffamento"
+		},
+		"Headband of Intellect": {
+			"name": "Fascia dell'Intelletto"
+		},
+		"Helm of Brilliance": {
+			"name": "Elmo della Luminiosità"
+		},
+		"Helm of Comprehending Languages": {
+			"name": "Elmo della Comprensione dei Linguaggi"
+		},
+		"Helm of Telepathy": {
+			"name": "Elmo della Telepatia"
+		},
+		"Helm of Teleportation": {
+			"name": "Elmo del Teletrasporto"
+		},
+		"Horn of Blasting": {
+			"name": "Corno della Distruzione"
+		},
+		"Horn of Valhalla": {
+			"name": "Corno d'Ottone del Valhalla"
+		},
+		"Brass Horn of Valhalla": {
+			"name": "Corno d'Ottone del Valhalla"
+		},
+		"Bronze Horn of Valhalla": {
+			"name": "Corno di Bronzo del Valhalla"
+		},
+		"Iron Horn of Valhalla": {
+			"name": "Corno di Ferro del Valhalla"
+		},
+		"Silver Horn of Valhalla": {
+			"name": "Corno d'Argento del Valhalla"
+		},
+		"Horseshoes of a Zephyr": {
+			"name": "Horseshoes of a Zephyr"
+		},
+		"Horseshoes of Speed": {
+			"name": "Ferri della Velocità"
+		},
+		"Instant Fortress": {
+			"name": "Fortezza Istantanea"
+		},
+		"Ioun Stone": {
+			"name": "Pietra di Ioun dell'Assorbimento"
+		},
+		"Ioun Stone of Absorption": {
+			"name": "Pietra di Ioun dell'Assorbimento"
+		},
+		"Ioun Stone of Agility": {
+			"name": "Pietra di Ioun dell'Agilità"
+		},
+		"Ioun Stone of Awareness": {
+			"name": "Pietra di Ioun della Consapevolezza"
+		},
+		"Ioun Stone of Fortitude": {
+			"name": "Pietra di Ioun della Tempra"
+		},
+		"Ioun Stone of Greater Absorption": {
+			"name": "Pietra di Ioun dell'Assorbimento Superiore"
+		},
+		"Ioun Stone of Insight": {
+			"name": "Pietra di Ioun dell'Intuizione"
+		},
+		"Ioun Stone of Intellect": {
+			"name": "Pietra di Ioun dell'Intelletto"
+		},
+		"Ioun Stone of Leadership": {
+			"name": "Pietra di Ioun dell'Autorità"
+		},
+		"Ioun Stone of Mastery": {
+			"name": "Pietra di Ioun della Maestria"
+		},
+		"Ioun Stone of Protection": {
+			"name": "Pietra di Ioun della Protezione"
+		},
+		"Ioun Stone of Regeneration": {
+			"name": "Pietra di Ioun della Rigenerazione"
+		},
+		"Ioun Stone of Reserve": {
+			"name": "Pietra di Ioun della Riserva"
+		},
+		"Ioun Stone of Strength": {
+			"name": "Pietra di Ioun della Forza"
+		},
+		"Ioun Stone of Sustenance": {
+			"name": "Pietra di Ioun del Sostentamento"
+		},
+		"Iron Bands": {
+			"name": "Fasce Metalliche del Legame"
+		},
+		"Iron Flask": {
+			"name": "Ampolla di Ferro"
+		},
+		"Lantern of Revealing": {
+			"name": "Lanterna della Rivelazione"
+		},
+		"Mantle of Spell Resistance": {
+			"name": "Manto della Resistenza agli Incantesimi"
+		},
+		"Manual of Bodily Health": {
+			"name": "Manuale della Salute"
+		},
+		"Manual of Gainful Exercise": {
+			"name": "Manuale dell'Esercizio Fisico"
+		},
+		"Manual of Golems": {
+			"name": "Manuale dei Golem"
+		},
+		"Manual of Quickness of Action": {
+			"name": "Manuale della Velocità di Azione"
+		},
+		"Marvelous Pigments": {
+			"name": "Pigmenti Meravigliosi"
+		},
+		"Medallion of Thoughts": {
+			"name": "Medaglione dei Pensieri"
+		},
+		"Mirror of Life Trapping": {
+			"name": "Specchio Imprigionante"
+		},
+		"Balance": {
+			"name": "Lancia da Cavaliere"
+		},
+		"Star": {
+			"name": "Polvere dello Starnuto e del Soffocamento"
+		},
+		"Necklace of Adaptation": {
+			"name": "Collana Dell’Adattamento"
+		},
+		"Necklace of Fireballs": {
+			"name": "Collana delle Palle di Fuoco"
+		},
+		"Necklace of Prayer Beads": {
+			"name": "Collana del Rosario"
+		},
+		"Pearl of Power": {
+			"name": "Perla del Potere"
+		},
+		"Periapt of Health": {
+			"name": "Talismano della Salute"
+		},
+		"Periapt of Proof against Poison": {
+			"name": "Talismano Anti-Veleno"
+		},
+		"Periapt of Wound Closure": {
+			"name": "Talismano della Rimarginazione"
+		},
+		"Pipes of Haunting": {
+			"name": "Flauto Incantatore"
+		},
+		"Pipes of the Sewers": {
+			"name": "Flauto dei Topi"
+		},
+		"Portable Hole": {
+			"name": "Buco Portatile"
+		},
+		"Ring of Animal Influence": {
+			"name": "Anello di Influenza sugli Animali"
+		},
+		"Ring of Djinni Summoning": {
+			"name": "Anello di Evocazione del Djinni"
+		},
+		"Ring of Evasion": {
+			"name": "Anello di Eludere"
+		},
+		"Ring of Feather Falling": {
+			"name": "Anello della Caduta Morbida"
+		},
+		"Ring of Free Action": {
+			"name": "Anello della Liberta di Azione"
+		},
+		"Ring of Invisibility": {
+			"name": "Anello di Invisibilita"
+		},
+		"Ring of Jumping": {
+			"name": "Anello del Saltare"
+		},
+		"Ring of Mind Shielding": {
+			"name": "Anello di Scudo Mentale"
+		},
+		"Ring of Protection": {
+			"name": "Anello di Protezione"
+		},
+		"Ring of Regeneration": {
+			"name": "Anello di Rigenerazione"
+		},
+		"Ring of Shooting Stars": {
+			"name": "Anello delle Stelle Cadenti"
+		},
+		"Ring of Spell Storing": {
+			"name": "Anello Accumula Incantesimi"
+		},
+		"Ring of Spell Turning": {
+			"name": "Anello Rifletti Incantesimo"
+		},
+		"Ring of Swimming": {
+			"name": "Anello del Nuotare"
+		},
+		"Ring of Telekinesis": {
+			"name": "Anello di Telecinesi"
+		},
+		"Ring of the Ram": {
+			"name": "Anello dell’Ariete"
+		},
+		"Ring of Three Wishes": {
+			"name": "Anello dei Tre Desideri"
+		},
+		"Ring of Warmth": {
+			"name": "Anello del Calore"
+		},
+		"Ring of Water Walking": {
+			"name": "Anello del Camminare Sull’Acqua"
+		},
+		"Ring of X-ray Vision": {
+			"name": "Anello della Vista a Raggi X"
+		},
+		"Robe of Eyes": {
+			"name": "Tunica degli Occhi"
+		},
+		"Robe of Scintillating Colors": {
+			"name": "Tunica dei Colori Scintillanti"
+		},
+		"Robe of Stars": {
+			"name": "Tunica delle Stelle"
+		},
+		"Robe of the Archmagi": {
+			"name": "Tunica dell'Arcimago"
+		},
+		"Robe of Useful Items": {
+			"name": "Tunica degli Oggetti Utili"
+		},
+		"Immovable Rod": {
+			"name": "Verga Inamovibile"
+		},
+		"Rod of Absorption": {
+			"name": "Verga dell'Assorbimento"
+		},
+		"Rod of Alertness": {
+			"name": "Verga dell'Allerta"
+		},
+		"Rod of Lordly Might": {
+			"name": "Verga della Potenza Divina"
+		},
+		"Rod of Resurrection": {
+			"name": "Resurrezione"
+		},
+		"Rod of Rulership": {
+			"name": "Verga della Sovranità"
+		},
+		"Rod of Security": {
+			"name": "Verga della Sicurezza"
+		},
+		"Rope of Climbing": {
+			"name": "Corda per Scalare"
+		},
+		"Rope of Entanglement": {
+			"name": "Corda Intralciante"
+		},
+		"Scarab of Protection": {
+			"name": "Scarabeo di Protezione"
+		},
+		"Slippers of Spider Climbing": {
+			"name": "Pantofole del Ragno"
+		},
+		"Sphere of Annihilation": {
+			"name": "Sfera Annientatrice"
+		},
+		"Stone of Controlling Earth Elementals": {
+			"name": "Pietra del Controllo degli Elementali della Terra"
+		},
+		"Stone of Good Luck (Luckstone)": {
+			"name": "Pietra della Buona Fortuna (Pietrafortuna)"
+		},
+		"Talisman of Pure Good": {
+			"name": "Talismano del Bene Puro"
+		},
+		"Talisman of the Sphere": {
+			"name": "Talismano della Sfera"
+		},
+		"Talisman of Ultimate Evil": {
+			"name": "Talismano del Male Estremo"
+		},
+		"Tome of Clear Thought": {
+			"name": "Tomo del Nitido Pensiero"
+		},
+		"Tome of Leadership and Influence": {
+			"name": "Tomo del Comando e dell'Influenza"
+		},
+		"Tome of Understanding": {
+			"name": "Tomo della Comprensione"
+		},
+		"Wand of Binding": {
+			"name": "Bacchetta del Legame"
+		},
+		"Wand of Enemy Detection": {
+			"name": "Bacchetta di Individuazione dei Nemici"
+		},
+		"Wand of Fear": {
+			"name": "Bacchetta della Paura"
+		},
+		"Wand of Fireballs": {
+			"name": "Bacchetta delle Palle di Fuoco"
+		},
+		"Wand of Lightning Bolts": {
+			"name": "Bacchetta dei Fulmini"
+		},
+		"Wand of Magic Detection": {
+			"name": "Bacchetta di Individuazione del Magico"
+		},
+		"Wand of Magic Missiles": {
+			"name": "Bacchetta dei Dardi Incantati"
+		},
+		"Wand of Paralysis": {
+			"name": "Bacchetta della Paralisi"
+		},
+		"Wand of Polymorph": {
+			"name": "Bacchetta della Metamorfosi"
+		},
+		"Wand of Secrets": {
+			"name": "Bacchetta dei Segreti"
+		},
+		"Wand of the War Mage, +1, +2, or +3": {
+			"name": "Bacchetta"
+		},
+		"Wand of Web": {
+			"name": "Bacchetta della Ragnatela"
+		},
+		"Wand of Wonder": {
+			"name": "Bacchetta della Meraviglie"
+		},
+		"Well of Many Worlds": {
+			"name": "Pozzo dei Mondi"
+		},
+		"Wind Fan": {
+			"name": "Ventaglio"
+		},
+		"Winged Boots": {
+			"name": "Stivali Alati"
+		},
+		"Wings of Flying": {
+			"name": "Ali del Volo"
+		},
+		"Ring": {
+			"name": "Corazza ad Anelli Adamantina"
+		},
+		"Scroll": {
+			"name": "Scatola per Mappe o Pergamene"
+		},
+		"Unarmed Strike": {
+			"name": "Colpo Senz'Armi"
+		},
+		"Alchemist's Supplies": {
+			"name": "Scorte da Alchimista"
+		},
+		"Brewer's Supplies": {
+			"name": "Scorte da Mescitore"
+		},
+		"Calligrapher's Supplies": {
+			"name": "Scorte da Calligrafo"
+		},
+		"Carpenter's Tools": {
+			"name": "Strumenti da Falegname"
+		},
+		"Cartographer's Tools": {
+			"name": "Strumenti da Cartografo"
+		},
+		"Cobbler's Tools": {
+			"name": "Strumenti da Calzolaio"
+		},
+		"Cook's Utensils": {
+			"name": "Utensili da Cuoco"
+		},
+		"Glassblower's Tools": {
+			"name": "Strumenti da Soffiatore"
+		},
+		"Jeweler's Tools": {
+			"name": "Strumenti da Gioielliere"
+		},
+		"Leatherworker's Tools": {
+			"name": "Strumenti da Conciatore"
+		},
+		"Mason's Tools": {
+			"name": "Strumenti da Costruttore"
+		},
+		"Painter's Supplies": {
+			"name": "Scorte da Pittore"
+		},
+		"Potter's Tools": {
+			"name": "Strumenti da Vasaio"
+		},
+		"Smith's Tools": {
+			"name": "Strumenti da Fabbro"
+		},
+		"Tinker's Tools": {
+			"name": "Strumenti da Inventore"
+		},
+		"Weaver's Tools": {
+			"name": "Strumenti da Tessitore"
+		},
+		"Woodcarver's Tools": {
+			"name": "Strumenti da Intagliatore"
+		},
+		"Disguise Kit": {
+			"name": "Trucchi per il Camuffamento"
+		},
+		"Forgery Kit": {
+			"name": "Kit da Falsario"
+		},
+		"Dice": {
+			"name": "Set da Gioco : Dadi"
+		},
+		"Dragonchess": {
+			"name": "Set da Gioco : Schacchi dei Draghi"
+		},
+		"Playing Cards": {
+			"name": "Set da Gioco : Carte"
+		},
+		"Three-dragon ante": {
+			"name": "Set da Gioco : Tre Draghi al Buio"
+		},
+		"Herbalism Kit": {
+			"name": "Borsa da Erborista"
+		},
+		"Bagpipes": {
+			"name": "Cornamusa"
+		},
+		"Drum": {
+			"name": "Tamburo"
+		},
+		"Dulcimer": {
+			"name": "Dulcimer"
+		},
+		"Flute": {
+			"name": "Flauto"
+		},
+		"Horn": {
+			"name": "Corno"
+		},
+		"Lute": {
+			"name": "Liuto"
+		},
+		"Lyre": {
+			"name": "Lira"
+		},
+		"Pan Flute": {
+			"name": "Zufolo"
+		},
+		"Shawm": {
+			"name": "Chiarina"
+		},
+		"Viol": {
+			"name": "Viola"
+		},
+		"Navigator's Tools": {
+			"name": "Strumenti da Navigatore"
+		},
+		"Poisoner's Kit": {
+			"name": "Sostanze da Avvelenatore"
+		},
+		"Thieves' Tools": {
+			"name": "Arnesi da Scasso"
+		},
+		"Falling Net": {
+			"name": "Rete"
+		},
+		"Poisoned Darts": {
+			"name": "Dardo"
+		},
+		"Spiked Pit": {
+			"name": "Picca"
+		},
+		"Dagger of Venom": {
+			"name": "Pugnale Avvelenato"
+		},
+		"Defender": {
+			"name": "Spadone Difensivo"
+		},
+		"Dragon Slayer": {
+			"name": "Spadone Ammazzadraghi"
+		},
+		"Dwarven Thrower": {
+			"name": "Martello Nanico da Lancio"
+		},
+		"Flame Tongue": {
+			"name": "Spadone Lingua di Fiamme"
+		},
+		"Frost Brand": {
+			"name": "Spadone del Gelo"
+		},
+		"Giant Slayer": {
+			"name": "Ascia da Battaglia Ammazzagiganti"
+		},
+		"Hammer of Thunderbolts": {
+			"name": "Martello dei Fulmini"
+		},
+		"Holy Avenger": {
+			"name": "Spadone Sacro Vendicatore"
+		},
+		"Javelin of Lightning": {
+			"name": "Giavellotto del Fulmine"
+		},
+		"Luck Blade": {
+			"name": "Spadone Lama della Fortuna"
+		},
+		"Mace of Disruption": {
+			"name": "Mazza della Distruzione"
+		},
+		"Mace of Smiting": {
+			"name": "Mazza della Punizione"
+		},
+		"Mace of Terror": {
+			"name": "Mazza del Terrore"
+		},
+		"Nine Lives Stealer": {
+			"name": "Spadone Ruba Nove Vite"
+		},
+		"Oathbow": {
+			"name": "Arco del Giuramento"
+		},
+		"Quarterstaff of the Acrobat": {
+			"name": "Bastone Ferrato"
+		},
+		"Scimitar of Speed": {
+			"name": "Scimitarra della Velocità"
+		},
+		"Sun Blade": {
+			"name": "Lama del Sole"
+		},
+		"Sword of Life Stealing": {
+			"name": "Spadone del Furto Vitale"
+		},
+		"Sword of Sharpness": {
+			"name": "Spadone Affilato"
+		},
+		"Sword of Wounding": {
+			"name": "Spadone del Ferimento"
+		},
+		"Thunderous Greatclub": {
+			"name": "Randello"
+		},
+		"Trident of Fish Command": {
+			"name": "Tridente del Comando dei Pesci"
+		},
+		"Battleaxe": {
+			"name": "Ascia da Battaglia"
+		},
+		"Flail": {
+			"name": "Flagello"
+		},
+		"Glaive": {
+			"name": "Falcione"
+		},
+		"Greataxe": {
+			"name": "Ascia Bipenne"
+		},
+		"Greatsword": {
+			"name": "Spadone"
+		},
+		"Halberd": {
+			"name": "Alabarda"
+		},
+		"Lance": {
+			"name": "Lancia da Cavaliere"
+		},
+		"Longsword": {
+			"name": "Spada Lunga"
+		},
+		"Maul": {
+			"name": "Maglio"
+		},
+		"Morningstar": {
+			"name": "Morningstar"
+		},
+		"Pike": {
+			"name": "Picca"
+		},
+		"Rapier": {
+			"name": "Stocco"
+		},
+		"Scimitar": {
+			"name": "Scimitarra"
+		},
+		"Shortsword": {
+			"name": "Spada Corta"
+		},
+		"Trident": {
+			"name": "Tridente"
+		},
+		"War Pick": {
+			"name": "Piccone da Guerra"
+		},
+		"Warhammer": {
+			"name": "Martello da Guerra"
+		},
+		"Whip": {
+			"name": "Frusta"
+		},
+		"Blowgun": {
+			"name": "Cerbottana"
+		},
+		"Hand Crossbow": {
+			"name": "Balestra a Mano"
+		},
+		"Heavy Crossbow": {
+			"name": "Balestra Pesante"
+		},
+		"Longbow": {
+			"name": "Arco Lungo"
+		},
+		"Club": {
+			"name": "Randello"
+		},
+		"Dagger": {
+			"name": "Pugnale"
+		},
+		"Greatclub": {
+			"name": "Randello Pesante"
+		},
+		"Handaxe": {
+			"name": "Ascia"
+		},
+		"Javelin": {
+			"name": "Giavellotto"
+		},
+		"Light Hammer": {
+			"name": "Martello Leggero"
+		},
+		"Mace": {
+			"name": "Mazza"
+		},
+		"Quarterstaff": {
+			"name": "Bastone Ferrato"
+		},
+		"Sickle": {
+			"name": "Falcetto"
+		},
+		"Spear": {
+			"name": "Lancia"
+		},
+		"Dart": {
+			"name": "Dardo"
+		},
+		"Light Crossbow": {
+			"name": "Balestra Leggera"
+		},
+		"Shortbow": {
+			"name": "Arco Corto"
+		},
+		"Sling": {
+			"name": "Fionda"
+		},
+		"Staff of Charming": {
+			"name": "Bastone dello Charme"
+		},
+		"Staff of Fire": {
+			"name": "Bastone del Fuoco"
+		},
+		"Staff of Frost": {
+			"name": "Bastone del Gelo"
+		},
+		"Staff of Healing": {
+			"name": "Bastone della Guarigione"
+		},
+		"Staff of Power": {
+			"name": "Bastone del Potere"
+		},
+		"Staff of Striking": {
+			"name": "Bastone del Colpo Possente"
+		},
+		"Staff of Swarming Insects": {
+			"name": "Bastone dello Sciame degli Insetti"
+		},
+		"Staff of the Magi": {
+			"name": "Bastone dei Magi"
+		},
+		"Staff of the Python": {
+			"name": "Bastone del Pitone"
+		},
+		"Staff of the Woodlands": {
+			"name": "Bastone dei Boschi"
+		},
+		"Staff of Thunder and Lightning": {
+			"name": "Bastone dei Tuoni e Fulmini"
+		},
+		"Staff of Withering": {
+			"name": "Bastone del Deperimento"
+		},
+		"Holy Symbol (Varies)": {
+			"name": "Simbolo"
+		},
+		"Mithral Armor": {
+			"name": "Allarme"
+		},
+		"Elixir of Health": {
+			"name": "Guarigione"
+		},
+		"Potion of Resistance": {
+			"name": "Resistenza"
+		},
+		"Cloak of Invisibility": {
+			"name": "Invisibilità"
+		},
+		"Flames": {
+			"name": "Colpo Infuocato"
+		},
+		"Moon": {
+			"name": "Bagliore Lunare"
+		},
+		"Sage": {
+			"name": "Messaggio"
+		},
+		"Air Ring of Elemental Command": {
+			"name": "Comando"
+		},
+		"Earth Ring of Elemental Command": {
+			"name": "Comando"
+		},
+		"Fire Ring of Elemental Command": {
+			"name": "Comando"
+		},
+		"Ring of Elemental Command": {
+			"name": "Comando"
+		},
+		"Ring of Resistance": {
+			"name": "Resistenza"
+		},
+		"Water Ring of Elemental Command": {
+			"name": "Comando"
+		},
+		"Sending Stones": {
+			"name": "Inviare"
+		},
+		"Ammunition (Varies)": {
+			"name": "Munizioni (Variabili)"
+		},
+		"Bullets, Firearm": {
+			"name": "Pallottole, Arma da Fuoco"
+		},
+		"Needles": {
+			"name": "Aghi"
+		},
+		"Oil": {
+			"name": "Olio"
+		},
+		"Water (Pint)": {
+			"name": "Acqua (Pinta)"
+		},
+		"Clothes, Fine": {
+			"name": "Vestiti, Eleganti"
+		},
+		"Clothes, Traveler's": {
+			"name": "Vestiti da Viaggiatore"
+		},
+		"Ink": {
+			"name": "Inchiostro"
+		}
+	}
 }

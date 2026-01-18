@@ -1,4 +1,1329 @@
 {
-	"label": "Incantesimi",
-	"entries": {}
+  "label": "Incantesimi",
+  "entries": [
+    {
+      "id": "phbsplAnimalFrie",
+      "name": "Pozione di Amicizia con gli Animali"
+    },
+    {
+      "id": "phbsplChromaticO",
+      "name": "Globo"
+    },
+    {
+      "id": "phbsplCommand000",
+      "name": "Boccia del Comando degli Elementali Dell’Acqua"
+    },
+    {
+      "id": "phbsplEntangle00",
+      "name": "Corda Intralciante"
+    },
+    {
+      "id": "phbsplFeatherFal",
+      "name": "Anello della Caduta Morbida"
+    },
+    {
+      "id": "phbsplHeroism000",
+      "name": "Pozione di Eroismo"
+    },
+    {
+      "id": "phbsplJump000000",
+      "name": "Anello del Saltare"
+    },
+    {
+      "id": "phbsplMagicMissi",
+      "name": "Bacchetta dei Dardi Incantati"
+    },
+    {
+      "id": "phbsplShieldofFa",
+      "name": "Scudo"
+    },
+    {
+      "id": "phbsplShield0000",
+      "name": "Scudo"
+    },
+    {
+      "id": "phbsplArcaneLock",
+      "name": "Serratura"
+    },
+    {
+      "id": "phbsplInvisibili",
+      "name": "Pozione di Invisibilità"
+    },
+    {
+      "id": "phbsplMindSpike0",
+      "name": "Picca"
+    },
+    {
+      "id": "phbsplSpiderClim",
+      "name": "Pantofole del Ragno"
+    },
+    {
+      "id": "phbsplSpikeGrowt",
+      "name": "Picca"
+    },
+    {
+      "id": "phbsplClairvoyan",
+      "name": "Pozione di Chiaroveggenza"
+    },
+    {
+      "id": "phbsplFear000000",
+      "name": "Gemma Elementale della terra"
+    },
+    {
+      "id": "phbsplFireball00",
+      "name": "Collana delle Palle di Fuoco"
+    },
+    {
+      "id": "phbsplGaseousFor",
+      "name": "Pozione di Forma Gassosa"
+    },
+    {
+      "id": "phbsplLightningB",
+      "name": "Bacchetta dei Fulmini"
+    },
+    {
+      "id": "phbsplTongues000",
+      "name": "Scimitarra Lingua di Fiamme"
+    },
+    {
+      "id": "phbsplWaterBreat",
+      "name": "Pozione di Respirare Sott’Acqua"
+    },
+    {
+      "id": "phbsplWaterWalk0",
+      "name": "Anello del Camminare Sull’Acqua"
+    },
+    {
+      "id": "phbsplFireShield",
+      "name": "Scudo"
+    },
+    {
+      "id": "phbsplPolymorph0",
+      "name": "Bacchetta della Metamorfosi"
+    },
+    {
+      "id": "phbsplLeomundsSe",
+      "name": "Forziere"
+    },
+    {
+      "id": "phbsplTelekinesi",
+      "name": "Anello di Telecinesi"
+    },
+    {
+      "id": "phbsplForbiddanc",
+      "name": "Globo"
+    },
+    {
+      "id": "phbsplHarm000000",
+      "name": "Lenti dello Charme"
+    },
+    {
+      "id": "phbsplHeal000000",
+      "name": "Amuleto della Salute"
+    },
+    {
+      "id": "phbsplTrueSeeing",
+      "name": "Sfera di Cristallo della Visione del Vero"
+    },
+    {
+      "id": "phbsplWallofThor",
+      "name": "Corno"
+    },
+    {
+      "id": "phbsplEtherealne",
+      "name": "Olio di Forma Eterea"
+    },
+    {
+      "id": "phbsplTeleport00",
+      "name": "Elmo del Teletrasporto"
+    },
+    {
+      "id": "phbsplGate000000",
+      "name": "Cubo dei Portali"
+    },
+    {
+      "id": "phbsplWish000000",
+      "name": "Anello dei Tre Desideri"
+    },
+    {
+      "id": "phbsplLight00000",
+      "name": "Giavellotto del Fulmine"
+    },
+    {
+      "id": "phbsplProduceFla",
+      "name": "Verga"
+    },
+    {
+      "id": "phbsplResistance",
+      "name": "Corazza di Piastre della Resistenza"
+    },
+    {
+      "id": "phbsplAlarm00000",
+      "name": "Allarme"
+    },
+    {
+      "id": "phbsplBane000000",
+      "name": "Anatema"
+    },
+    {
+      "id": "phbsplBless00000",
+      "name": "Benedizione"
+    },
+    {
+      "id": "phbsplBurningHan",
+      "name": "Mani Brucianti"
+    },
+    {
+      "id": "phbsplCharmPerso",
+      "name": "Charme su Persone"
+    },
+    {
+      "id": "phbsplColorSpray",
+      "name": "Spruzzo Colorato"
+    },
+    {
+      "id": "phbsplComprehend",
+      "name": "Comprensione dei Linguaggi"
+    },
+    {
+      "id": "phbsplCreateorDe",
+      "name": "Creare o Distruggere Acqua"
+    },
+    {
+      "id": "phbsplCureWounds",
+      "name": "Cura Ferite"
+    },
+    {
+      "id": "phbsplDetectEvil",
+      "name": "Individuazione del Bene e del Male"
+    },
+    {
+      "id": "phbsplDetectMagi",
+      "name": "Individuazione del Magico"
+    },
+    {
+      "id": "phbsplDetectPois",
+      "name": "Individuazione delle Malattie e dei Veleni"
+    },
+    {
+      "id": "phbsplDisguiseSe",
+      "name": "Camuffare se stesso"
+    },
+    {
+      "id": "phbsplDivineFavo",
+      "name": "Favore Divino"
+    },
+    {
+      "id": "phbsplExpeditiou",
+      "name": "Ritirata Rapida"
+    },
+    {
+      "id": "phbsplFaerieFire",
+      "name": "Luminescenza"
+    },
+    {
+      "id": "phbsplFalseLife0",
+      "name": "Vita Falsata"
+    },
+    {
+      "id": "phbsplFindFamili",
+      "name": "Trova Famiglio"
+    },
+    {
+      "id": "phbsplTensersFlo",
+      "name": "Disco Fluttuante"
+    },
+    {
+      "id": "phbsplFogCloud00",
+      "name": "Nube di Nebbia"
+    },
+    {
+      "id": "phbsplGoodberry0",
+      "name": "Bacche Benefiche"
+    },
+    {
+      "id": "phbsplGrease0000",
+      "name": "Unto"
+    },
+    {
+      "id": "phbsplGuidingBol",
+      "name": "Dardo Tracciante"
+    },
+    {
+      "id": "phbsplHealingWor",
+      "name": "Parola Guaritrice"
+    },
+    {
+      "id": "phbsplHellishReb",
+      "name": "Intimorire Infernale"
+    },
+    {
+      "id": "phbsplTashasHide",
+      "name": "Risata Incontenibile di Tasha"
+    },
+    {
+      "id": "phbsplHuntersMar",
+      "name": "Marchio del Cacciatore"
+    },
+    {
+      "id": "phbsplIdentify00",
+      "name": "Identificare"
+    },
+    {
+      "id": "phbsplIllusorySc",
+      "name": "Scritto Illusorio"
+    },
+    {
+      "id": "phbsplInflictWou",
+      "name": "Infliggi Ferite"
+    },
+    {
+      "id": "phbsplLongstride",
+      "name": "Passo Veloce"
+    },
+    {
+      "id": "phbsplMageArmor0",
+      "name": "Armatura Magica"
+    },
+    {
+      "id": "phbEvilAndGoodPr",
+      "name": "Protezione dal Bene e dal Male"
+    },
+    {
+      "id": "phbsplPurifyFood",
+      "name": "Purificare Cibo e Acqua"
+    },
+    {
+      "id": "phbSanctuary0000",
+      "name": "Santuario"
+    },
+    {
+      "id": "phbsplSilentImag",
+      "name": "Immagine Silenziosa"
+    },
+    {
+      "id": "phbsplSleep00000",
+      "name": "Sonno"
+    },
+    {
+      "id": "phbsplSpeakwithA",
+      "name": "Parlare con gli Animali"
+    },
+    {
+      "id": "phbsplThunderwav",
+      "name": "Onda Tonante"
+    },
+    {
+      "id": "phbsplUnseenServ",
+      "name": "Servitore Inosservato"
+    },
+    {
+      "id": "phbsplMelfsAcidA",
+      "name": "Freccia Acida"
+    },
+    {
+      "id": "phbsplAid0000000",
+      "name": "Aiuto"
+    },
+    {
+      "id": "phbsplAlterSelf0",
+      "name": "Alterare Se Stesso"
+    },
+    {
+      "id": "phbsplAnimalMess",
+      "name": "Animale Messaggero"
+    },
+    {
+      "id": "phbsplNystulsMag",
+      "name": "Aura Magica di Nystul"
+    },
+    {
+      "id": "phbsplAugury0000",
+      "name": "Presagio"
+    },
+    {
+      "id": "phbsplBarkskin00",
+      "name": "Pelle Coriacea"
+    },
+    {
+      "id": "phbsplBlindnessD",
+      "name": "Cecità/Sordità"
+    },
+    {
+      "id": "phbsplBlur000000",
+      "name": "Sfocatura"
+    },
+    {
+      "id": "phbsplCalmEmotio",
+      "name": "Calmare Emozioni"
+    },
+    {
+      "id": "phbsplContinualF",
+      "name": "Fiamma Perenne"
+    },
+    {
+      "id": "phbsplDarkness00",
+      "name": "Oscurità"
+    },
+    {
+      "id": "phbsplDarkvision",
+      "name": "Scurovisione"
+    },
+    {
+      "id": "phbsplDetectThou",
+      "name": "Individuazione dei Pensieri"
+    },
+    {
+      "id": "phbsplEnhanceAbi",
+      "name": "Caratteristica Potenziata"
+    },
+    {
+      "id": "phbsplEnlargeRed",
+      "name": "Ingrandire/Ridurre"
+    },
+    {
+      "id": "phbsplEnthrall00",
+      "name": "Estasiare"
+    },
+    {
+      "id": "phbsplFindSteed0",
+      "name": "Trova Cavalcatura"
+    },
+    {
+      "id": "phbsplFindTraps0",
+      "name": "Scopri Trappole"
+    },
+    {
+      "id": "phbsplFlameBlade",
+      "name": "Lama Infuocata"
+    },
+    {
+      "id": "phbsplFlamingSph",
+      "name": "Sfera Infuocata"
+    },
+    {
+      "id": "phbsplGentleRepo",
+      "name": "Riposo Inviolato"
+    },
+    {
+      "id": "phbsplGustofWind",
+      "name": "Folata di Vento"
+    },
+    {
+      "id": "phbsplHeatMetal0",
+      "name": "Riscaldare il Metallo"
+    },
+    {
+      "id": "phbsplHoldPerson",
+      "name": "Blocca Persone"
+    },
+    {
+      "id": "phbsplKnock00000",
+      "name": "Scassinare"
+    },
+    {
+      "id": "phbsplLesserRest",
+      "name": "Ristorare Inferiore"
+    },
+    {
+      "id": "phbsplLevitate00",
+      "name": "Levitazione"
+    },
+    {
+      "id": "phbsplLocateAnim",
+      "name": "Localizza Animali o Vegetali"
+    },
+    {
+      "id": "phbsplLocateObje",
+      "name": "Localizza Oggetto"
+    },
+    {
+      "id": "phbsplMagicMouth",
+      "name": "Bocca Magica"
+    },
+    {
+      "id": "phbsplMagicWeapo",
+      "name": "Arma Magica"
+    },
+    {
+      "id": "phbsplMirrorImag",
+      "name": "Immagine Speculare"
+    },
+    {
+      "id": "phbsplMistyStep0",
+      "name": "Passo Velato"
+    },
+    {
+      "id": "phbsplMoonbeam00",
+      "name": "Bagliore Lunare"
+    },
+    {
+      "id": "phbsplPasswithou",
+      "name": "Passare Senza Tracce"
+    },
+    {
+      "id": "phbsplPrayerofHe",
+      "name": "Preghiera di Guarigione"
+    },
+    {
+      "id": "phbsplProtection",
+      "name": "Protezione dai Veleni"
+    },
+    {
+      "id": "phbsplRayofEnfee",
+      "name": "Raggio di Affaticamento"
+    },
+    {
+      "id": "phbsplRopeTrick0",
+      "name": "Trucco della Corda"
+    },
+    {
+      "id": "phbsplScorchingR",
+      "name": "Raggio Rovente"
+    },
+    {
+      "id": "phbsplSeeInvisib",
+      "name": "Vedere Invisibilità"
+    },
+    {
+      "id": "phbsplShatter000",
+      "name": "Frantumare"
+    },
+    {
+      "id": "phbsplSilence000",
+      "name": "Silenzio"
+    },
+    {
+      "id": "phbsplSpiritualW",
+      "name": "Arma Spirituale"
+    },
+    {
+      "id": "phbsplSuggestion",
+      "name": "Suggestione"
+    },
+    {
+      "id": "phbsplWardingBon",
+      "name": "Vincolo di Interdizione"
+    },
+    {
+      "id": "phbsplWeb0000000",
+      "name": "Ragnatela"
+    },
+    {
+      "id": "phbsplZoneofTrut",
+      "name": "Zona di Verità"
+    },
+    {
+      "id": "phbsplAnimateDea",
+      "name": "Animare Morti"
+    },
+    {
+      "id": "phbsplBeaconofHo",
+      "name": "Faro di Speranza"
+    },
+    {
+      "id": "phbsplBestowCurs",
+      "name": "Scagliare Maledizione"
+    },
+    {
+      "id": "phbsplBlink00000",
+      "name": "Intermittenza"
+    },
+    {
+      "id": "phbsplCallLightn",
+      "name": "Invocare il Fulmine"
+    },
+    {
+      "id": "phbsplConjureAni",
+      "name": "Evoca Animali"
+    },
+    {
+      "id": "phbsplCounterspe",
+      "name": "Controincantesimo"
+    },
+    {
+      "id": "phbsplCreateFood",
+      "name": "Creare Cibo e Acqua"
+    },
+    {
+      "id": "phbsplDaylight00",
+      "name": "Luce Diurna"
+    },
+    {
+      "id": "phbsplDispelMagi",
+      "name": "Dissolvi Magie"
+    },
+    {
+      "id": "phbsplFly0000000",
+      "name": "Volare"
+    },
+    {
+      "id": "phbsplGlyphofWar",
+      "name": "Glifo di Interdizione"
+    },
+    {
+      "id": "phbsplHaste00000",
+      "name": "Velocità"
+    },
+    {
+      "id": "phbsplHypnoticPa",
+      "name": "Trama Ipnotica"
+    },
+    {
+      "id": "phbsplMagicCircl",
+      "name": "Cerchio Magico"
+    },
+    {
+      "id": "phbsplMajorImage",
+      "name": "Immagine Maggiore"
+    },
+    {
+      "id": "phbsplMassHealin",
+      "name": "Parola Guaritrice di Massa"
+    },
+    {
+      "id": "phbsplMeldintoSt",
+      "name": "Fondersi nella Pietra"
+    },
+    {
+      "id": "phbsplNondetecti",
+      "name": "Anti-Individuazione"
+    },
+    {
+      "id": "phbsplPhantomSte",
+      "name": "Destriero Fantomatico"
+    },
+    {
+      "id": "phbsplPlantGrowt",
+      "name": "Crescita Vegetale"
+    },
+    {
+      "id": "phbProtectionFro",
+      "name": "Protezione dall’Energia"
+    },
+    {
+      "id": "phbsplRemoveCurs",
+      "name": "Rimuovi Maledizione"
+    },
+    {
+      "id": "phbsplRevivify00",
+      "name": "Rinascita"
+    },
+    {
+      "id": "phbsplSending000",
+      "name": "Inviare"
+    },
+    {
+      "id": "phbsplSleetStorm",
+      "name": "Tempesta di Nevischio"
+    },
+    {
+      "id": "phbsplSlow000000",
+      "name": "Lentezza"
+    },
+    {
+      "id": "phbsplSpeakwithD",
+      "name": "Parlare con i Morti"
+    },
+    {
+      "id": "phbsplSpeakwithP",
+      "name": "Parlare con i Vegetali"
+    },
+    {
+      "id": "phbsplSpiritGuar",
+      "name": "Guardiani Spirituali"
+    },
+    {
+      "id": "phbsplStinkingCl",
+      "name": "Nube Maleodorante"
+    },
+    {
+      "id": "phbsplLeomundsTi",
+      "name": "Capanna di Leomund"
+    },
+    {
+      "id": "phbsplVampiricTo",
+      "name": "Tocco del Vampiro"
+    },
+    {
+      "id": "phbsplWindWall00",
+      "name": "Muro di Vento"
+    },
+    {
+      "id": "phbsplArcaneEye0",
+      "name": "Occhio Arcano"
+    },
+    {
+      "id": "phbsplBanishment",
+      "name": "Esilio"
+    },
+    {
+      "id": "phbsplEvardsBlac",
+      "name": "Tentacoli Neri di Evard"
+    },
+    {
+      "id": "phbsplBlight0000",
+      "name": "Inaridire"
+    },
+    {
+      "id": "phbsplCharmMonst",
+      "name": "Ferire"
+    },
+    {
+      "id": "phbsplCompulsion",
+      "name": "Compulsione"
+    },
+    {
+      "id": "phbsplConfusion0",
+      "name": "Confusione"
+    },
+    {
+      "id": "phbsplConjureMin",
+      "name": "Evoca Elementali Minori"
+    },
+    {
+      "id": "phbsplConjureWoo",
+      "name": "Evoca Creature Boschive"
+    },
+    {
+      "id": "phbsplControlWat",
+      "name": "Controllare Acqua"
+    },
+    {
+      "id": "phbsplDeathWard0",
+      "name": "Interdizione alla Morte"
+    },
+    {
+      "id": "phbsplDimensionD",
+      "name": "Porta Dimensionale"
+    },
+    {
+      "id": "phbsplDivination",
+      "name": "Divinazione"
+    },
+    {
+      "id": "phbsplDominateBe",
+      "name": "Dominare Bestie"
+    },
+    {
+      "id": "phbsplFabricate0",
+      "name": "Fabbricare"
+    },
+    {
+      "id": "phbFaithfulHound",
+      "name": "Segugio Fedele di Mordenkainen"
+    },
+    {
+      "id": "phbsplFreedomofM",
+      "name": "Libertà di Movimento"
+    },
+    {
+      "id": "phbsplGiantInsec",
+      "name": "Insetto Gigante"
+    },
+    {
+      "id": "phbsplGreaterInv",
+      "name": "Invisibilità Superiore"
+    },
+    {
+      "id": "phbsplGuardianof",
+      "name": "Guardiano della Fede"
+    },
+    {
+      "id": "phbsplHallucinat",
+      "name": "Terreno Illusorio"
+    },
+    {
+      "id": "phbsplIceStorm00",
+      "name": "Tempesta di Ghiaccio"
+    },
+    {
+      "id": "phbsplLocateCrea",
+      "name": "Localizza Creatura"
+    },
+    {
+      "id": "phbsplPhantasmal",
+      "name": "Allucinazione Mortale"
+    },
+    {
+      "id": "phbPrivateSanctu",
+      "name": "Santuario Privato di Mordenkainen"
+    },
+    {
+      "id": "phbsplOtilukesRe",
+      "name": "Sfera Elastica di Otiluke"
+    },
+    {
+      "id": "phbsplStoneShape",
+      "name": "Scolpire Pietra"
+    },
+    {
+      "id": "phbsplStoneskin0",
+      "name": "Pelle di Pietra"
+    },
+    {
+      "id": "phbsplWallofFire",
+      "name": "Muro di Fuoco"
+    },
+    {
+      "id": "phbsplAnimateObj",
+      "name": "Animare Oggetti"
+    },
+    {
+      "id": "phbsplAntilifeSh",
+      "name": "Guscio Anti-Vita"
+    },
+    {
+      "id": "phbsplBigbysHand",
+      "name": "Mano di Bigby"
+    },
+    {
+      "id": "phbsplAwaken0000",
+      "name": "Risveglio"
+    },
+    {
+      "id": "phbsplCloudkill0",
+      "name": "Nube Mortale"
+    },
+    {
+      "id": "phbsplCommunewit",
+      "name": "Comunione con la Natura"
+    },
+    {
+      "id": "phbsplCommune000",
+      "name": "Comunione"
+    },
+    {
+      "id": "phbsplConeofCold",
+      "name": "Cono di Freddo"
+    },
+    {
+      "id": "phbsplConjureEle",
+      "name": "Evoca Elementale"
+    },
+    {
+      "id": "phbsplContactOth",
+      "name": "Contattare Altri Piani"
+    },
+    {
+      "id": "phbsplContagion0",
+      "name": "Contagio"
+    },
+    {
+      "id": "phbsplCreation00",
+      "name": "Creazione"
+    },
+    {
+      "id": "phbsplDispelEvil",
+      "name": "Dissolvi il Bene e il Male"
+    },
+    {
+      "id": "phbsplDominatePe",
+      "name": "Dominare Persone"
+    },
+    {
+      "id": "phbsplDream00000",
+      "name": "Sogno"
+    },
+    {
+      "id": "phbsplFlameStrik",
+      "name": "Colpo Infuocato"
+    },
+    {
+      "id": "phbsplGeas000000",
+      "name": "Costrizione"
+    },
+    {
+      "id": "phbsplGreaterRes",
+      "name": "Ristorare Superiore"
+    },
+    {
+      "id": "phbsplHallow0000",
+      "name": "Santificare"
+    },
+    {
+      "id": "phbsplHoldMonste",
+      "name": "Blocca Mostri"
+    },
+    {
+      "id": "phbsplInsectPlag",
+      "name": "Piaga degli Insetti"
+    },
+    {
+      "id": "phbsplLegendLore",
+      "name": "Conoscenza delle Leggende"
+    },
+    {
+      "id": "phbsplMassCureWo",
+      "name": "Cura Ferite di Massa"
+    },
+    {
+      "id": "phbsplMislead000",
+      "name": "Fuorviare"
+    },
+    {
+      "id": "phbsplModifyMemo",
+      "name": "Modificare Memoria"
+    },
+    {
+      "id": "phbsplPasswall00",
+      "name": "Passapareti"
+    },
+    {
+      "id": "phbsplPlanarBind",
+      "name": "Legame Planare"
+    },
+    {
+      "id": "phbsplRaiseDead0",
+      "name": "Rianimare Morti"
+    },
+    {
+      "id": "phbsplReincarnat",
+      "name": "Reincarnazione"
+    },
+    {
+      "id": "phbsplScrying000",
+      "name": "Scrutare"
+    },
+    {
+      "id": "phbsplSeeming000",
+      "name": "Sembrare"
+    },
+    {
+      "id": "phbsplRarysTelep",
+      "name": "Legame Telepatico di Rary"
+    },
+    {
+      "id": "phbsplTeleportat",
+      "name": "Cerchio di Teletrasporto"
+    },
+    {
+      "id": "phbsplTreeStride",
+      "name": "Traslazione Arborea"
+    },
+    {
+      "id": "phbsplWallofForc",
+      "name": "Muro di Forza"
+    },
+    {
+      "id": "phbsplWallofSton",
+      "name": "Muro di Pietra"
+    },
+    {
+      "id": "phbsplBladeBarri",
+      "name": "Barriera di Lame"
+    },
+    {
+      "id": "phbsplChainLight",
+      "name": "Catena di Fulmini"
+    },
+    {
+      "id": "phbsplCircleofDe",
+      "name": "Cerchio di Morte"
+    },
+    {
+      "id": "phbsplConjureFey",
+      "name": "Evoca Folletto"
+    },
+    {
+      "id": "phbsplContingenc",
+      "name": "Contingenza"
+    },
+    {
+      "id": "phbsplCreateUnde",
+      "name": "Creare Non Morti"
+    },
+    {
+      "id": "phbsplDisintegra",
+      "name": "Disintegrazione"
+    },
+    {
+      "id": "phbsplEyebite000",
+      "name": "Sguardo Penetrante"
+    },
+    {
+      "id": "phbsplFindthePat",
+      "name": "Scopri il Percorso"
+    },
+    {
+      "id": "phbsplFleshtoSto",
+      "name": "Carne in Pietra"
+    },
+    {
+      "id": "phbsplOtilukesFr",
+      "name": "Sfera Congelante di Otiluke"
+    },
+    {
+      "id": "phbsplGlobeofInv",
+      "name": "Globo di Invulnerabilità"
+    },
+    {
+      "id": "phbsplGuardsandW",
+      "name": "Vigilanza e Interdizione"
+    },
+    {
+      "id": "phbsplHeroesFeas",
+      "name": "Banchetto degli Eroi"
+    },
+    {
+      "id": "phbsplDrawmijsIn",
+      "name": "Evocazioni Istantanee di Drawmij"
+    },
+    {
+      "id": "phbsplOttosIrres",
+      "name": "Danza Irresistibile"
+    },
+    {
+      "id": "phbsplMagicJar00",
+      "name": "Giara Magica"
+    },
+    {
+      "id": "phbsplMassSugges",
+      "name": "Suggestione di Massa"
+    },
+    {
+      "id": "phbsplMoveEarth0",
+      "name": "Muovere il Terreno"
+    },
+    {
+      "id": "phbsplPlanarAlly",
+      "name": "Alleato Planare"
+    },
+    {
+      "id": "phbsplProgrammed",
+      "name": "Illusione Programmata"
+    },
+    {
+      "id": "phbsplSunbeam000",
+      "name": "Bagliore Solare"
+    },
+    {
+      "id": "phbsplTransportv",
+      "name": "Trasporto Vegetale"
+    },
+    {
+      "id": "phbsplWallofIce0",
+      "name": "Muro di Ghiaccio"
+    },
+    {
+      "id": "phbsplWindWalk00",
+      "name": "Camminare nel Vento"
+    },
+    {
+      "id": "phbsplWordofReca",
+      "name": "Parola del Ritiro"
+    },
+    {
+      "id": "phbswdMordenkain",
+      "name": "Spada di Mordenkainen"
+    },
+    {
+      "id": "phbsplConjureCel",
+      "name": "Evoca Celestiale"
+    },
+    {
+      "id": "phbsplDelayedBla",
+      "name": "Palla di Fuoco Ritardata"
+    },
+    {
+      "id": "phbsplDivineWord",
+      "name": "Parola Divina"
+    },
+    {
+      "id": "phbsplFingerofDe",
+      "name": "Dito della Morte"
+    },
+    {
+      "id": "phbsplFireStorm0",
+      "name": "Tempesta di Fuoco"
+    },
+    {
+      "id": "phbsplForcecage0",
+      "name": "Gabbia di Forza"
+    },
+    {
+      "id": "phbMagnificentMa",
+      "name": "Reggia Meravigliosa di Mordenkainen"
+    },
+    {
+      "id": "phbsplMirageArca",
+      "name": "Miraggio Arcano"
+    },
+    {
+      "id": "phbsplPlaneShift",
+      "name": "Spostamento Planare"
+    },
+    {
+      "id": "phbsplPrismaticS",
+      "name": "Spruzzo Prismatico"
+    },
+    {
+      "id": "phbsplProjectIma",
+      "name": "Immagine Proiettata"
+    },
+    {
+      "id": "phbsplRegenerate",
+      "name": "Rigenerazione"
+    },
+    {
+      "id": "phbsplResurrecti",
+      "name": "Resurrezione"
+    },
+    {
+      "id": "phbsplReverseGra",
+      "name": "Inversione della Gravità"
+    },
+    {
+      "id": "phbsplSequester0",
+      "name": "Celare"
+    },
+    {
+      "id": "phbsplSimulacrum",
+      "name": "Simulacro"
+    },
+    {
+      "id": "phbsplSymbol0000",
+      "name": "Simbolo"
+    },
+    {
+      "id": "phbsplAnimalShap",
+      "name": "Forme Animali"
+    },
+    {
+      "id": "phbsplAntimagicF",
+      "name": "Campo Anti-Magia"
+    },
+    {
+      "id": "phbsplAntipathyS",
+      "name": "Antipatia/Simpatia"
+    },
+    {
+      "id": "phbsplClone00000",
+      "name": "Clone"
+    },
+    {
+      "id": "phbsplControlWea",
+      "name": "Controllare Tempo Atmosferico"
+    },
+    {
+      "id": "phbsplDemiplane0",
+      "name": "Semipiano"
+    },
+    {
+      "id": "phbsplDominateMo",
+      "name": "Dominare Mostri"
+    },
+    {
+      "id": "phbsplEarthquake",
+      "name": "Terremoto"
+    },
+    {
+      "id": "phbsplGlibness00",
+      "name": "Loquacità"
+    },
+    {
+      "id": "phbsplHolyAura00",
+      "name": "Aura Sacra"
+    },
+    {
+      "id": "phbsplIncendiary",
+      "name": "Nube Incendiaria"
+    },
+    {
+      "id": "phbsplMaze000000",
+      "name": "Labirinto"
+    },
+    {
+      "id": "phbsplMindBlank0",
+      "name": "Vuoto Mentale"
+    },
+    {
+      "id": "phbsplPowerWordS",
+      "name": "Parola del Potere Stordire"
+    },
+    {
+      "id": "phbsplSunburst00",
+      "name": "Esplosione Solare"
+    },
+    {
+      "id": "phbsplAstralProj",
+      "name": "Proiezione Astrale"
+    },
+    {
+      "id": "phbsplForesight0",
+      "name": "Previsione"
+    },
+    {
+      "id": "phbsplImprisonme",
+      "name": "Imprigionare"
+    },
+    {
+      "id": "phbsplMassHeal00",
+      "name": "Guarigione di Massa"
+    },
+    {
+      "id": "phbsplMeteorSwar",
+      "name": "Sciame di Meteore"
+    },
+    {
+      "id": "phbsplPowerWordH",
+      "name": "Guarigione"
+    },
+    {
+      "id": "phbsplPowerWordK",
+      "name": "Parola del Potere Uccidere"
+    },
+    {
+      "id": "phbsplPrismaticW",
+      "name": "Muro Prismatico"
+    },
+    {
+      "id": "phbsplShapechang",
+      "name": "Trasformazione"
+    },
+    {
+      "id": "phbsplStormofVen",
+      "name": "Tempesta di Vendetta"
+    },
+    {
+      "id": "phbsplTimeStop00",
+      "name": "Fermare il Tempo"
+    },
+    {
+      "id": "phbsplTruePolymo",
+      "name": "Metamorfosi Pura"
+    },
+    {
+      "id": "phbsplTrueResurr",
+      "name": "Resurrezione Pura"
+    },
+    {
+      "id": "phbsplWeird00000",
+      "name": "Fatale"
+    },
+    {
+      "id": "phbsplAcidSplash",
+      "name": "Fiotto Acido"
+    },
+    {
+      "id": "phbsplChillTouch",
+      "name": "Tocco Gelido"
+    },
+    {
+      "id": "phbsplDancingLig",
+      "name": "Luci Danzanti"
+    },
+    {
+      "id": "phbsplDruidcraft",
+      "name": "Artificio Druidico"
+    },
+    {
+      "id": "phbsplEldritchBl",
+      "name": "Deflagrazione Occulta"
+    },
+    {
+      "id": "phbsplFireBolt00",
+      "name": "Dardo di Fuoco"
+    },
+    {
+      "id": "phbsplGuidance00",
+      "name": "Guida"
+    },
+    {
+      "id": "phbsplMageHand00",
+      "name": "Mano Magica"
+    },
+    {
+      "id": "phbsplMending000",
+      "name": "Riparare"
+    },
+    {
+      "id": "phbsplMessage000",
+      "name": "Messaggio"
+    },
+    {
+      "id": "phbsplMinorIllus",
+      "name": "Illusione Minore"
+    },
+    {
+      "id": "phbsplPoisonSpra",
+      "name": "Spruzzo Velenoso"
+    },
+    {
+      "id": "phbsplPrestidigi",
+      "name": "Prestidigitazione"
+    },
+    {
+      "id": "phbsplRayofFrost",
+      "name": "Raggio di Gelo"
+    },
+    {
+      "id": "phbsplSacredFlam",
+      "name": "Fiamma Sacra"
+    },
+    {
+      "id": "phbsplShillelagh",
+      "name": "Randello Incantato"
+    },
+    {
+      "id": "phbsplShockingGr",
+      "name": "Stretta Folgorante"
+    },
+    {
+      "id": "phbsplSparetheDy",
+      "name": "Salvare i Morenti"
+    },
+    {
+      "id": "phbsplThaumaturg",
+      "name": "Taumaturgia"
+    },
+    {
+      "id": "phbsplTrueStrike",
+      "name": "Colpo Accurato"
+    },
+    {
+      "id": "phbsplViciousMoc",
+      "name": "Beffa Crudele"
+    },
+    {
+      "id": "phbsplDissonantW",
+      "name": "Sussurri Dissonanti"
+    },
+    {
+      "id": "phbsplDivineSmit",
+      "name": "Punizione Divina"
+    },
+    {
+      "id": "phbsplEnsnaringS",
+      "name": "Colpo Agguato"
+    },
+    {
+      "id": "phbsplHex0000000",
+      "name": "Maledizione"
+    },
+    {
+      "id": "phbsplIceKnife00",
+      "name": "Coltello di Ghiaccio"
+    },
+    {
+      "id": "phbsplRayofSickn",
+      "name": "Raggio di Malattia"
+    },
+    {
+      "id": "phbsplSearingSmi",
+      "name": "Colpo Bruciante"
+    },
+    {
+      "id": "phbsplArcaneVigo",
+      "name": "Vigore Arcano"
+    },
+    {
+      "id": "phbsplDragonsBre",
+      "name": "Soffio del Drago"
+    },
+    {
+      "id": "phbPhantasmalFor",
+      "name": "Forza Fantasmatica"
+    }
+  ]
 }

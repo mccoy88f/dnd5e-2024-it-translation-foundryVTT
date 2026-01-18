@@ -1020,6 +1020,870 @@
       "id": "Web Walker",
       "name": "Andatura sulla Ragnatela",
       "description": "<p>L'&lt;creature&gt;&nbsp;ignora le restrizioni di movimento causate dalle ragnatele.</p>"
+    },
+    {
+      "id": "KoBGbIkb2tMZv0ch",
+      "name": "Terreno Aberrante"
+    },
+    {
+      "id": "TVPqMOcoLNFBUMyG",
+      "name": "Assorbimento dell'Acido"
+    },
+    {
+      "id": "zjcGly9P3Gn9MXt7",
+      "name": "Soffio di Acido"
+    },
+    {
+      "id": "kZpl32DBmqxlRegX",
+      "name": "Spruzzo Acido"
+    },
+    {
+      "id": "8H0t1US0zvNPWtQ9",
+      "name": "Adesivo"
+    },
+    {
+      "id": "7NML6SkyvOsZ17iq",
+      "name": "Aggressivo"
+    },
+    {
+      "id": "TyDSfYTJeKv7c8lB",
+      "name": "Forma d'Aria"
+    },
+    {
+      "id": "EMygUh5uRujWaFYK",
+      "name": "Imboscata"
+    },
+    {
+      "id": "3lDp8DtWwNDHSvxX",
+      "name": "Amorfo"
+    },
+    {
+      "id": "4Fap14HgvAwTAZuD",
+      "name": "Anfibio"
+    },
+    {
+      "id": "6ej6jlwh8ryDEzlB",
+      "name": "Catene Animate"
+    },
+    {
+      "id": "j6F0v4guYhRYWddT",
+      "name": "Animare Alberi"
+    },
+    {
+      "id": "6HJpLJxctQdMLeuB",
+      "name": "Antenne"
+    },
+    {
+      "id": "KMQAgNxBCAHrd2JU",
+      "name": "Suscettibilità all'Anti-magia"
+    },
+    {
+      "id": "IwqUTWqdgrKEvohr",
+      "name": "Assassinare"
+    },
+    {
+      "id": "uxFQ3TxO3isW5WKK",
+      "name": "Avversione al Fuoco"
+    },
+    {
+      "id": "QMGBV7OSnXqWLdhr",
+      "name": "Pelle Uncinata"
+    },
+    {
+      "id": "mUwZfxiOyao1Xuxt",
+      "name": "Bestia da Soma"
+    },
+    {
+      "id": "QOWoa60SwvsQJifN",
+      "name": "Berserk"
+    },
+    {
+      "id": "WdpSeGqhZpptz37y",
+      "name": "Morso"
+    },
+    {
+      "id": "Xwj2GPqTxngS0j2L",
+      "name": "Parola Blasfema"
+    },
+    {
+      "id": "7nbokvWfSckl2iWz",
+      "name": "Percezione Cieca"
+    },
+    {
+      "id": "tHvaJB8tXSriVXRm",
+      "name": "Soffio Accecante"
+    },
+    {
+      "id": "ao6mxTJVYy7WaVgW",
+      "name": "Polvere Accecante"
+    },
+    {
+      "id": "0awyZX05OnVLF4k2",
+      "name": "Sputo Accecante"
+    },
+    {
+      "id": "B2kZOyrB7poB4liR",
+      "name": "Frenesia di Sangue"
+    },
+    {
+      "id": "twrIaUZ79Yn5qpML",
+      "name": "Vincolato"
+    },
+    {
+      "id": "108q5fJnnBRoLKfe",
+      "name": "Impavido"
+    },
+    {
+      "id": "q8w1UF9woZDGIwvS",
+      "name": "Bruto"
+    },
+    {
+      "id": "JsAys4RSGi4lN5Jy",
+      "name": "Cambiare Forma"
+    },
+    {
+      "id": "LO4nrudXAKJ4DbQI",
+      "name": "Incanalare Energia Negativa"
+    },
+    {
+      "id": "WqRzbokPG0am6AHb",
+      "name": "Carica"
+    },
+    {
+      "id": "ykoo88OJOdfYH7mH",
+      "name": "Controfascino"
+    },
+    {
+      "id": "iHOaiOqwUWIfCljJ",
+      "name": "Soffio di Freddo"
+    },
+    {
+      "id": "wzgGJyVFGIcj1XAb",
+      "name": "Conferire Resistenza al Fuoco"
+    },
+    {
+      "id": "r2nM5I77LnSvkLvD",
+      "name": "Assorbire Vita"
+    },
+    {
+      "id": "0z5v1BfMqQl5Z7UW",
+      "name": "Corrodere il Metallo"
+    },
+    {
+      "id": "cZm13DxOe9lZyGFT",
+      "name": "Forma Corrosiva"
+    },
+    {
+      "id": "SlAF2AE4ZKoUvQql",
+      "name": "Creare Spettro"
+    },
+    {
+      "id": "1XeF2VMMPw7QYffo",
+      "name": "Vortice"
+    },
+    {
+      "id": "J36uxDWfbkflPV7k",
+      "name": "Azione Scaltra"
+    },
+    {
+      "id": "0npeEcwmiVMdwGMV",
+      "name": "Trasferire Danni"
+    },
+    {
+      "id": "XFvk6ywwZWTkMmQR",
+      "name": "Devozione Oscura"
+    },
+    {
+      "id": "jhAU6pb5GvbjwTX7",
+      "name": "Aura di Oscurità"
+    },
+    {
+      "id": "bG5Z45jj4wz0N3T6",
+      "name": "Balzo Letale"
+    },
+    {
+      "id": "net3yBKQoxl8bZ4r",
+      "name": "Esplosione Mortale"
+    },
+    {
+      "id": "o8G8BNPJOWoCKzR5",
+      "name": "Sguardo Mortale"
+    },
+    {
+      "id": "EguIm3u5kkopYwEM",
+      "name": "Distruggere Vita"
+    },
+    {
+      "id": "lVrnjqBrv90VH96d",
+      "name": "Eminenza Divina"
+    },
+    {
+      "id": "iq0J225DCbHYU2hU",
+      "name": "Ki"
+    },
+    {
+      "id": "H306eluIH47Wfr0U",
+      "name": "Sguardo Funesto"
+    },
+    {
+      "id": "WHnLJRaXfIW7Z28t",
+      "name": "Resilienza Duergar"
+    },
+    {
+      "id": "yrpqazOHqI4BrYW4",
+      "name": "Scivolare nella Terra"
+    },
+    {
+      "id": "rUongiWD51ZopRk2",
+      "name": "Senso Radar"
+    },
+    {
+      "id": "Eh80lkzHiEOJP8FI",
+      "name": "Avviluppare"
+    },
+    {
+      "id": "jZgeHxCR8pF6FOmQ",
+      "name": "Ingrandire"
+    },
+    {
+      "id": "VrPyFE3Hhjh0QjIO",
+      "name": "Effimero"
+    },
+    {
+      "id": "3iLXiqhhOgXOMMg7",
+      "name": "Transizione Eterea"
+    },
+    {
+      "id": "We6R4thWKYDRYlEc",
+      "name": "Vista Eterea"
+    },
+    {
+      "id": "NfTCXq8eRrqjhvAo",
+      "name": "Passo Etereo"
+    },
+    {
+      "id": "rDoNJnKdY47x8MD4",
+      "name": "Forma Eterea"
+    },
+    {
+      "id": "xOgrn5QXzSP4QN6V",
+      "name": "Elusione"
+    },
+    {
+      "id": "kyVgQNSa12loxVvr",
+      "name": "Falso Aspetto"
+    },
+    {
+      "id": "E8SiDA7Z3Ybd6wt0",
+      "name": "Segugio Infallibile"
+    },
+    {
+      "id": "XwcFK21aM2BThgSk",
+      "name": "Nube Fetida"
+    },
+    {
+      "id": "LvSBjRKoCAKaAnQy",
+      "name": "Retaggio Fatato"
+    },
+    {
+      "id": "SGgVxdZbmsStfeGB",
+      "name": "Fascino Fatato"
+    },
+    {
+      "id": "bGSW8IuWURWiWtxr",
+      "name": "Soffio di Fuoco"
+    },
+    {
+      "id": "0YuGSS8E8ElHLRyb",
+      "name": "Forma di Fuoco"
+    },
+    {
+      "id": "7WfeHV27l7DMcuTG",
+      "name": "Volo Sfuggente"
+    },
+    {
+      "id": "fUMY4b9snsiKl30e",
+      "name": "Libertà di Movimento"
+    },
+    {
+      "id": "m0FA3UM62hlTPVSA",
+      "name": "Congelamento"
+    },
+    {
+      "id": "cpnrDGQrqgPlSmwR",
+      "name": "Sguardo Terrificante"
+    },
+    {
+      "id": "dPPLbo3Unu3TqZrs",
+      "name": "Gorgogliare"
+    },
+    {
+      "id": "0gl43AC57cvJaW7D",
+      "name": "Astuzia Gnomesca"
+    },
+    {
+      "id": "kP9t6MAeUvBBmoM3",
+      "name": "Lottatore"
+    },
+    {
+      "id": "LkepRN2rP3Hp4orY",
+      "name": "Tentacoli Afferranti"
+    },
+    {
+      "id": "ZIGTG2qhkJ54jEk4",
+      "name": "Velocità"
+    },
+    {
+      "id": "gklxiU0PKYSM7RWv",
+      "name": "Guarire Se Stesso"
+    },
+    {
+      "id": "r3Ugp8f5Ckw2EUHL",
+      "name": "Tocco Guaritore"
+    },
+    {
+      "id": "iCae1IDxHvRmjEgi",
+      "name": "Vista del Cuore"
+    },
+    {
+      "id": "iFNpsEMJT66eLoat",
+      "name": "Corpo Surriscaldato"
+    },
+    {
+      "id": "i3viKtKcSVeWLJFJ",
+      "name": "Armi Surriscaldate"
+    },
+    {
+      "id": "lwC6jwy9bXberyWo",
+      "name": "Trattenere il Respiro"
+    },
+    {
+      "id": "YShGyidij4sLpyzF",
+      "name": "Aspetto Orripilante "
+    },
+    {
+      "id": "lBN86BToCJgkakL3",
+      "name": "Volto Terrificante"
+    },
+    {
+      "id": "YKC7pwYkJSKn1vuw",
+      "name": "Camminare sul Ghiaccio"
+    },
+    {
+      "id": "Uvy7vla2EhYSfTl0",
+      "name": "Illuminazione Fiammeggiante"
+    },
+    {
+      "id": "F3gzBbCW7U14zkBF",
+      "name": "Illuminazione"
+    },
+    {
+      "id": "s7kqggp9VLDb39nu",
+      "name": "Aspetto Illusorio"
+    },
+    {
+      "id": "MFuiImIvLzYA3osc",
+      "name": "Forma Immutabile"
+    },
+    {
+      "id": "LUHmtIDD1VTreFqI",
+      "name": "Movimento Incorporeo"
+    },
+    {
+      "id": "bojUXmNOZ2rJVujD",
+      "name": "Nube di Inchiostro"
+    },
+    {
+      "id": "hkmTEk6klT6QL4K4",
+      "name": "Incantesimi Innati"
+    },
+    {
+      "id": "dA5X2eQuOtHywpQF",
+      "name": "Invisibilità"
+    },
+    {
+      "id": "FRIASnssihfMTZ7q",
+      "name": "Passaggio Invisibile"
+    },
+    {
+      "id": "gh5UPTS0L16fHYwB",
+      "name": "Fiutare il Ferro"
+    },
+    {
+      "id": "1w6k5iHV8QSz5w46",
+      "name": "Ricordo Labirintico"
+    },
+    {
+      "id": "cl5sUkAIeJoAG4gh",
+      "name": "Autorità"
+    },
+    {
+      "id": "terEuqr148hQBkIq",
+      "name": "Azioni Leggendarie"
+    },
+    {
+      "id": "J1NxNTJ2qi05iAFF",
+      "name": "Resistenza Leggendaria"
+    },
+    {
+      "id": "2l557y06401lwsqs",
+      "name": "Sensibilità alla Luce del Sole"
+    },
+    {
+      "id": "KTsFgSQlDetDDm1f",
+      "name": "Assorbimento del Fulmine"
+    },
+    {
+      "id": "LVnd9fq9cQj7rR0Q",
+      "name": "Soffio di Fulmini"
+    },
+    {
+      "id": "boO7LJ0RRinoWHyT",
+      "name": "Anfibio"
+    },
+    {
+      "id": "xna3UTd4EFLCZMt9",
+      "name": "Telepatia Limitata"
+    },
+    {
+      "id": "IALpDTyYdDOzmDb5",
+      "name": "Canto Seducente"
+    },
+    {
+      "id": "Hc6MqLQhPTI1KOvm",
+      "name": "Resistenza Magica"
+    },
+    {
+      "id": "nahRRxck9R5GVVFS",
+      "name": "Armi Magiche"
+    },
+    {
+      "id": "zg0RZmAncKJqIpax",
+      "name": "Vantaggio Marziale"
+    },
+    {
+      "id": "zZkNtL97hn1P6OJC",
+      "name": "Imitare"
+    },
+    {
+      "id": "VvXrTnB2FscxqbG3",
+      "name": "Gemito"
+    },
+    {
+      "id": "EqoLg8T8EHvhJgKE",
+      "name": "Multiattacco"
+    },
+    {
+      "id": "dvSoAF3bOeUeIrxf",
+      "name": "Teste Multiple"
+    },
+    {
+      "id": "VbBHypDc0eLWbsNE",
+      "name": "Infestare Incubi"
+    },
+    {
+      "id": "PqVfFNyOPmecrS7N",
+      "name": "Fuga Agile"
+    },
+    {
+      "id": "CvtGj6YimGuZdrhB",
+      "name": "Cubo di Melma"
+    },
+    {
+      "id": "V1lW1vnrTpVTDr6o",
+      "name": "Tattiche del Branco"
+    },
+    {
+      "id": "BiasCPpNsaAVKzIj",
+      "name": "Soffio Paralizzante"
+    },
+    {
+      "id": "ebcmg4M5LsUYCqee",
+      "name": "Tocco Paralizzante"
+    },
+    {
+      "id": "kfi26Jy0VLXv9TTm",
+      "name": "Parata"
+    },
+    {
+      "id": "xmXYBevj0kuPa3Fo",
+      "name": "Soffio Pietrificante"
+    },
+    {
+      "id": "wkIN7WTeX8ebbjtv",
+      "name": "Sguardo Pietrificante"
+    },
+    {
+      "id": "t0ojYPOlKEbPpYNc",
+      "name": "Allucinazioni"
+    },
+    {
+      "id": "JAEclghgOT24pQD9",
+      "name": "Soffio di Veleno"
+    },
+    {
+      "id": "NI3FPb5jQsePdlVl",
+      "name": "Possessione"
+    },
+    {
+      "id": "MqAVplIArAKzpnXB",
+      "name": "Balzo"
+    },
+    {
+      "id": "BnuDkgCOeGvAoYhy",
+      "name": "Furia"
+    },
+    {
+      "id": "miIjsa984tZ0Mil6",
+      "name": "Teste Reattive"
+    },
+    {
+      "id": "lhTQJsLKYUZT2gV5",
+      "name": "Teste Reattive"
+    },
+    {
+      "id": "w5mFTTFsdKC7TXgg",
+      "name": "Lettura del Pensiero"
+    },
+    {
+      "id": "4v3xxn1jEEMRzLBG",
+      "name": "Avventato"
+    },
+    {
+      "id": "IwQRhCTgCfAADyt8",
+      "name": "Riavvolgere"
+    },
+    {
+      "id": "Av7H0ymGdPeTsnwV",
+      "name": "Rigenerazione"
+    },
+    {
+      "id": "8FX2KlWyBAKEYGzs",
+      "name": "Implacabile"
+    },
+    {
+      "id": "zRDERBe0lMbwyGwN",
+      "name": "Soffio Respingente"
+    },
+    {
+      "id": "BpwXJvMA7MfVQ7i6",
+      "name": "Afferrare Roccia"
+    },
+    {
+      "id": "Ozz1xvw2ydiw4IJP",
+      "name": "Balzo in Corsa"
+    },
+    {
+      "id": "GSgfXL9DyDA3GD0n",
+      "name": "Arrugginire"
+    },
+    {
+      "id": "gqrKcFwxHhmwrP2q",
+      "name": "Spaventare"
+    },
+    {
+      "id": "JAnMheqgFhkLF2ET",
+      "name": "Percezione della Magia"
+    },
+    {
+      "id": "nUVFUgyKK7fmQaFh",
+      "name": "Furtività d'Ombra"
+    },
+    {
+      "id": "VhByyxHJN7MNQJRd",
+      "name": "Mutaforma"
+    },
+    {
+      "id": "UYorz1ZrfuoTRknp",
+      "name": "Telepatia con gli Squali"
+    },
+    {
+      "id": "yHcr3vlkmtInELj2",
+      "name": "Mente Schermata"
+    },
+    {
+      "id": "SrmR5UfLMFxTErTp",
+      "name": "Mente Schermata"
+    },
+    {
+      "id": "8l0R2MIYxWxYJT6O",
+      "name": "Scudo Scintillante"
+    },
+    {
+      "id": "OqRnKL4703RuReS1",
+      "name": "Stridio"
+    },
+    {
+      "id": "cSA0EbjlxCbst4gJ",
+      "name": "Mostro da Assedio"
+    },
+    {
+      "id": "43BnuqkQgg5l1Nfh",
+      "name": "Soffio di Sonno"
+    },
+    {
+      "id": "JRy507rS9wxT3GBh",
+      "name": "Soffio Rallentante"
+    },
+    {
+      "id": "9uKShqfuA73duQsT",
+      "name": "Attacco Furtivo"
+    },
+    {
+      "id": "jnKOUieu2UO1xHhT",
+      "name": "Mimetismo sulla Neve"
+    },
+    {
+      "id": "59DUUDZet1J4PIlA",
+      "name": "Parlare con le Bestie e i Vegetali"
+    },
+    {
+      "id": "kSgBb9r1TCfDIMY0",
+      "name": "Incantesimo Custodito"
+    },
+    {
+      "id": "fdmzHw875EzpXM2a",
+      "name": "Incantesimi"
+    },
+    {
+      "id": "FXHEc39G2d19opuE",
+      "name": "Movimenti del Ragno"
+    },
+    {
+      "id": "NzHwrEuKnKxZ4NTP",
+      "name": "Scindersi"
+    },
+    {
+      "id": "ihWvcWsnfqW2HFlA",
+      "name": "Spore"
+    },
+    {
+      "id": "f4yvSah35ixQOswD",
+      "name": "Balzo da Fermo"
+    },
+    {
+      "id": "4N7S29kDROQ932pG",
+      "name": "Nervi Saldi"
+    },
+    {
+      "id": "4UuuUKjATTixrZGP",
+      "name": "Soffio di Vapore"
+    },
+    {
+      "id": "OsPhT7jA5LlvUA6e",
+      "name": "Fetore"
+    },
+    {
+      "id": "j1cPfWFNvxGoex9Z",
+      "name": "Mimetismo nella Pietra"
+    },
+    {
+      "id": "aD3HKoBnJtZL6cDj",
+      "name": "Stridio Stordente"
+    },
+    {
+      "id": "F14aW2Ke3I5ZtSg4",
+      "name": "Sensibilità alla Luce del Sole"
+    },
+    {
+      "id": "u1Tt4l4Mczgt3wOS",
+      "name": "Debolezza alla Luce del Sole"
+    },
+    {
+      "id": "nJHx2fudYhZeexDP",
+      "name": "Ben Piantato"
+    },
+    {
+      "id": "5DJYFjGQCz5aSl5e",
+      "name": "Attacco a Sorpresa"
+    },
+    {
+      "id": "eL3OJmc4FuetizKO",
+      "name": "Sciame"
+    },
+    {
+      "id": "iVOxckt9448v7Ho5",
+      "name": "Ricrescita degli Aculei Caudali"
+    },
+    {
+      "id": "Kx011zSOyhqEumH5",
+      "name": "Coda"
+    },
+    {
+      "id": "eVKgO2130oiJqsjY",
+      "name": "Legame Telepatico"
+    },
+    {
+      "id": "PPzVD90vab60FqCt",
+      "name": "Teletrasporto"
+    },
+    {
+      "id": "QiM1nbPzbLzKnfmP",
+      "name": "Schianto con Tentacolo"
+    },
+    {
+      "id": "nKpLMXS9E10TSGhU",
+      "name": "Schianto con Tentacolo"
+    },
+    {
+      "id": "yD51x4dihnbHwfsj",
+      "name": "Carica Travolgente"
+    },
+    {
+      "id": "cueeLXQ3W8gKHiLq",
+      "name": "Trasparente"
+    },
+    {
+      "id": "Enhb3XowXPMsVapw",
+      "name": "Percezione dei Tesori"
+    },
+    {
+      "id": "g4V02wJbEstUpwi9",
+      "name": "Passo Arboreo"
+    },
+    {
+      "id": "r9aMLZ7F3gSRLgRr",
+      "name": "Resistenza allo Scacciare"
+    },
+    {
+      "id": "zSBlyP5Vm1CAV5VO",
+      "name": "Due Teste"
+    },
+    {
+      "id": "9W2baYpS2ahNYhjb",
+      "name": "Colpo Senza Armi"
+    },
+    {
+      "id": "VYAnJjIgb5nPXfRr",
+      "name": "Tempra dei Non Morti"
+    },
+    {
+      "id": "M9XqZZGoTKawAsCl",
+      "name": "Mimetismo Acquatico"
+    },
+    {
+      "id": "uEYSTOkpfr0OkKrD",
+      "name": "Maschera Snervante"
+    },
+    {
+      "id": "Ervkb8H99e2Beiae",
+      "name": "Debolezze dei Vampiri"
+    },
+    {
+      "id": "iQGaWIinmYFPRF94",
+      "name": "Illuminazione"
+    },
+    {
+      "id": "T2gLBBjrHTbLTdGc",
+      "name": "Sempre Sveglio"
+    },
+    {
+      "id": "c4Q6NDCLJSNcNc9T",
+      "name": "Respirare Sott'Acqua"
+    },
+    {
+      "id": "AFYR2eZavzQUbZNb",
+      "name": "Forma d'Acqua"
+    },
+    {
+      "id": "5V7SCABXvIbnk2Zn",
+      "name": "Suscettibilità all'Acqua"
+    },
+    {
+      "id": "IHh6n8uZBGqyRfZz",
+      "name": "Soffio Indebolente"
+    },
+    {
+      "id": "kjF0btAMYHUAQgOt",
+      "name": "Percezione della Ragnatela"
+    },
+    {
+      "id": "zITrVwmnPpLoBZI1",
+      "name": "Andatura sulla Ragnatela"
+    },
+    {
+      "id": "sMgKJtbCLNSX7V80",
+      "name": "Sommergere"
+    },
+    {
+      "id": "X96xsQjIolyHtV91",
+      "name": "Turbine di Sabbia"
+    },
+    {
+      "id": "ocmSrMY2NX3e43uN",
+      "name": "Vortice"
+    },
+    {
+      "id": "cz1LUaiXG8GshgU9",
+      "name": "Armi Angeliche"
+    },
+    {
+      "id": "8C6hkMXWLeymmJ5C",
+      "name": "Sguardo Accecante"
+    },
+    {
+      "id": "KcUjvqIXZI3APp5a",
+      "name": "Armi a Soffio"
+    },
+    {
+      "id": "7HPC39yg8OYshJos",
+      "name": "Lanciare un Incantesimo"
+    },
+    {
+      "id": "dm2G9HupHZbZRvNm",
+      "name": "Figli della Notte"
+    },
+    {
+      "id": "5rr8YdsGtL8WxEuE",
+      "name": "Addentare"
+    },
+    {
+      "id": "DPrO7eVVxiKD8QWD",
+      "name": "Attacco con Artiglio"
+    },
+    {
+      "id": "EmlE1a0rhucK2UT1",
+      "name": "Agonia della Morte"
+    },
+    {
+      "id": "UjbgbOnd6ltjagZm",
+      "name": "Vista del Diavolo"
+    },
+    {
+      "id": "lOJK48AtlIcfYPPB",
+      "name": "Consapevolezza Divina"
+    },
+    {
+      "id": "WbaKH3NLA3mvylfM",
+      "name": "Fine Elementale"
+    },
+    {
+      "id": "gbcy9MyUF06iUC88",
+      "name": "Asservire"
+    },
+    {
+      "id": "MLVEyA7VcWu9uXqV",
+      "name": "Aura di Paura"
+    },
+    {
+      "id": "UH57LTsTGDxl2oS6",
+      "name": "Assorbimento del Fuoco"
+    },
+    {
+      "id": "LJTY3nl1cp9go4eT",
+      "name": "Aura di Fuoco"
+    },
+    {
+      "id": "T25IRJ66yUqi2F1m",
+      "name": "Primo Ruggito"
+    },
+    {
+      "id": "hxXzd3KCfnqnT89w",
+      "name": "Lanciare"
+    },
+    {
+      "id": "Ouvju0Y3SoYb5EMR",
+      "name": "Spada Volante"
     }
   ]
 }

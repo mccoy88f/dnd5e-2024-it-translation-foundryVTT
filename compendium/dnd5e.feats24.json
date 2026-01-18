@@ -1,4 +1,56 @@
 {
 	"label": "Talenti",
-	"entries": {}
+	"entries": {
+		"Boon of Combat Prowess": {
+			"name": "Dono della Prodezza in Combattimento"
+		},
+		"Boon of Dimensional Travel": {
+			"name": "Dono del Viaggio Dimensionale"
+		},
+		"Boon of Fate": {
+			"name": "Dono del Destino"
+		},
+		"Boon of Irresistible Offense": {
+			"name": "Dono dell'Offesa Irresistibile"
+		},
+		"Boon of Spell Recall": {
+			"name": "Dono della Memoria degli Incantesimi"
+		},
+		"Boon of the Night Spirit": {
+			"name": "Dono dello Spirito della Notte"
+		},
+		"Boon of Truesight": {
+			"name": "Dono della Vista Vera"
+		},
+		"Archery": {
+			"name": "Arcieria"
+		},
+		"Defense": {
+			"name": "Difesa"
+		},
+		"Great Weapon Fighting": {
+			"name": "Combattimento con Armi Grandi"
+		},
+		"Two-Weapon Fighting": {
+			"name": "Combattimento con Due Armi"
+		},
+		"Alert": {
+			"name": "Verga dell'Allerta"
+		},
+		"Ability Score Improvement": {
+			"name": "Miglioramento Punteggio di Caratteristica"
+		},
+		"Grappler": {
+			"name": "Lottatore"
+		},
+		"Magic Initiate": {
+			"name": "Iniziato alla Magia"
+		},
+		"Savage Attacker": {
+			"name": "Attaccante Selvaggio"
+		},
+		"Skilled": {
+			"name": "Abile"
+		}
+	}
 }

@@ -1,5 +1,27 @@
 {
-  "label": "Attori 2024",
+  "label": "Mostri",
+  "folders": {
+    "aberration": "Aberrazione",
+    "beast": "Bestia",
+    "celestial": "Celestiale",
+    "companions": "Compagni",
+    "conjurations": "Evocazioni",
+    "construct": "Costrutto",
+    "dragon": "Drago",
+    "elemental": "Elementale",
+    "fey": "Fata",
+    "fiend": "Demone",
+    "giant": "Gigante",
+    "humanoid": "Umanoide",
+    "magic-items": "Oggetti Magici",
+    "monstrosity": "Mostruosità",
+    "ooze": "Melma",
+    "plant": "Pianta",
+    "summons": "Evocazioni",
+    "swarm": "Sciame",
+    "undead": "Non Morto",
+    "vehicles": "Veicoli"
+  },
   "mapping": {
     "alignment": {
       "path": "data.details.alignment",
@@ -36,44 +58,1556 @@
   },
   "entries": [
     {
+      "id": "VBTtG9kjHNQstG0a",
+      "name": "Nave Volante"
+    },
+    {
+      "id": "dmg3x5CarpetofFl",
+      "name": "Tappeto Volante (3x5 piedi)"
+    },
+    {
+      "id": "dmg4x6CarpetofFl",
+      "name": "Tappeto Volante (4x6 piedi)"
+    },
+    {
+      "id": "dmg5x7CarpetofFl",
+      "name": "Tappeto Volante (5x7 piedi)"
+    },
+    {
+      "id": "dmg6x9CarpetofFl",
+      "name": "Tappeto Volante (6x9 piedi)"
+    },
+    {
+      "id": "dmgApparatusofKw",
+      "name": "Apparato del Granchio"
+    },
+    {
+      "id": "dmgAvatarofDeath",
+      "name": "Avatar della Morte"
+    },
+    {
+      "id": "dmgGiantFly00000",
+      "name": "Mosca Gigante"
+    },
+    {
+      "id": "dmgGoatofTraveli",
+      "name": "Capra del Viaggiatore"
+    },
+    {
+      "id": "dmgIllusoryCreat",
+      "name": "Creatura Illusoria"
+    },
+    {
+      "id": "dmggwsDancingSwo",
+      "name": "Spada Danzante"
+    },
+    {
+      "id": "dmgqftFloatingWh",
+      "name": "Frusta Fluttuante"
+    },
+    {
       "id": "mmAboleth0000000",
       "name": "Aboleth"
+    },
+    {
+      "id": "mmAdultBlackDrag",
+      "name": "Drago Nero Adulto"
+    },
+    {
+      "id": "mmAdultBlueDrago",
+      "name": "Drago Blu Adulto"
+    },
+    {
+      "id": "mmAdultBrassDrag",
+      "name": "Drago d'Ottone Adulto"
+    },
+    {
+      "id": "mmAdultBronzeDra",
+      "name": "Drago di Bronzo Adulto"
+    },
+    {
+      "id": "mmAdultCopperDra",
+      "name": "Drago di Rame Adulto"
+    },
+    {
+      "id": "mmAdultGoldDrago",
+      "name": "Drago d'Oro Adulto"
+    },
+    {
+      "id": "mmAdultGreenDrag",
+      "name": "Drago Verde Adulto"
+    },
+    {
+      "id": "mmAdultRedDragon",
+      "name": "Drago Rosso Adulto"
+    },
+    {
+      "id": "mmAdultSilverDra",
+      "name": "Drago d'Argento Adulto"
+    },
+    {
+      "id": "mmAdultWhiteDrag",
+      "name": "Drago Bianco Adulto"
+    },
+    {
+      "id": "mmAirElemental00",
+      "name": "Elementale dell'Aria"
+    },
+    {
+      "id": "mmAllosaurus0000",
+      "name": "Allosauro"
+    },
+    {
+      "id": "mmAncientBlackDr",
+      "name": "Drago Nero Antico"
+    },
+    {
+      "id": "mmAncientBlueDra",
+      "name": "Drago Blu Antico"
+    },
+    {
+      "id": "mmAncientBrassDr",
+      "name": "Drago d'Ottone Antico"
+    },
+    {
+      "id": "mmAncientBronzeD",
+      "name": "Drago di Bronzo Antico"
+    },
+    {
+      "id": "mmAncientCopperD",
+      "name": "Drago di Rame Antico"
+    },
+    {
+      "id": "mmAncientGoldDra",
+      "name": "Drago d'Oro Antico"
+    },
+    {
+      "id": "mmAncientGreenDr",
+      "name": "Drago Verde Antico"
+    },
+    {
+      "id": "mmAncientRedDrag",
+      "name": "Drago Rosso Antico"
+    },
+    {
+      "id": "mmAncientSilverD",
+      "name": "Drago d'Argento Antico"
+    },
+    {
+      "id": "mmAncientWhiteDr",
+      "name": "Drago Bianco Antico"
+    },
+    {
+      "id": "mmAnimatedArmor0",
+      "name": "Armatura Animata"
+    },
+    {
+      "id": "mmAnimatedFlying",
+      "name": "Spada Volante"
+    },
+    {
+      "id": "mmAnimatedRugOfS",
+      "name": "Tappeto Soffocante Animato"
+    },
+    {
+      "id": "mmAnkheg00000000",
+      "name": "Ankheg"
+    },
+    {
+      "id": "mmAnkylosaurus00",
+      "name": "Anchilosauro"
+    },
+    {
+      "id": "mmApe00000000000",
+      "name": "Gorilla"
+    },
+    {
+      "id": "mmArchelon000000",
+      "name": "Archelon"
+    },
+    {
+      "id": "mmArchmage000000",
+      "name": "Arcimago"
+    },
+    {
+      "id": "mmAssassin000000",
+      "name": "Assassino"
+    },
+    {
+      "id": "mmAwakenedShrub0",
+      "name": "Cespuglio Risvegliato"
+    },
+    {
+      "id": "mmAwakenedTree00",
+      "name": "Albero Risvegliato"
+    },
+    {
+      "id": "mmAxeBeak0000000",
+      "name": "Beccoaguzzo"
+    },
+    {
+      "id": "mmAzerSentinel00",
+      "name": "Azer Sentinella"
+    },
+    {
+      "id": "mmBaboon00000000",
+      "name": "Babbuino"
+    },
+    {
+      "id": "mmBadger00000000",
+      "name": "Tasso"
+    },
+    {
+      "id": "mmBalor000000000",
+      "name": "Balor"
+    },
+    {
+      "id": "mmBandit00000000",
+      "name": "Bandito"
+    },
+    {
+      "id": "mmBanditCaptain0",
+      "name": "Capitano dei Banditi"
+    },
+    {
+      "id": "mmBarbedDevil000",
+      "name": "Diavolo Uncinato"
+    },
+    {
+      "id": "mmBasilisk000000",
+      "name": "Basilisco"
+    },
+    {
+      "id": "mmBat00000000000",
+      "name": "Pipistrello"
+    },
+    {
+      "id": "mmBeardedDevil00",
+      "name": "Diavolo Barbuto"
+    },
+    {
+      "id": "mmBehir000000000",
+      "name": "Behir"
+    },
+    {
+      "id": "mmBerserker00000",
+      "name": "Berserker"
+    },
+    {
+      "id": "mmBlackBear00000",
+      "name": "Orso Nero"
+    },
+    {
+      "id": "mmBlackDragonWyr",
+      "name": "Drago Nero Cucciolo"
+    },
+    {
+      "id": "mmBlackPudding00",
+      "name": "Protoplasma Nero"
+    },
+    {
+      "id": "mmBlinkDog000000",
+      "name": "Cane Intermittente"
+    },
+    {
+      "id": "mmBloodHawk00000",
+      "name": "Falco di Sangue"
+    },
+    {
+      "id": "mmBlueDragonWyrm",
+      "name": "Drago Blu Cucciolo"
+    },
+    {
+      "id": "mmBoar0000000000",
+      "name": "Cinghiale"
+    },
+    {
+      "id": "mmBoneDevil00000",
+      "name": "Diavolo d'Ossa"
+    },
+    {
+      "id": "mmBrassDragonWyr",
+      "name": "Drago d'Ottone Cucciolo"
+    },
+    {
+      "id": "mmBronzeDragonWy",
+      "name": "Drago di Bronzo Cucciolo"
+    },
+    {
+      "id": "mmBrownBear00000",
+      "name": "Orso Bruno"
+    },
+    {
+      "id": "mmBugbearStalker",
+      "name": "Bugbear"
+    },
+    {
+      "id": "mmBugbearWarrior",
+      "name": "Bugbear"
+    },
+    {
+      "id": "mmBulette0000000",
+      "name": "Bulette"
+    },
+    {
+      "id": "mmCamel000000000",
+      "name": "Cammello"
+    },
+    {
+      "id": "mmCat00000000000",
+      "name": "Gatto"
+    },
+    {
+      "id": "mmCentaurTrooper",
+      "name": "Centauro"
+    },
+    {
+      "id": "mmChainDevil0000",
+      "name": "Diavolo delle Catene"
+    },
+    {
+      "id": "mmChimera0000000",
+      "name": "Chimera"
     },
     {
       "id": "mmChuul000000000",
       "name": "Chuul"
     },
     {
+      "id": "mmClayGolem00000",
+      "name": "Golem d'Argilla"
+    },
+    {
       "id": "mmCloaker0000000",
       "name": "Manto Assassino"
+    },
+    {
+      "id": "mmCloudGiant0000",
+      "name": "Gigante delle Nuvole"
+    },
+    {
+      "id": "mmCockatrice0000",
+      "name": "Cockatrice"
+    },
+    {
+      "id": "mmCommoner000000",
+      "name": "Popolano"
+    },
+    {
+      "id": "mmConstrictorSna",
+      "name": "Serpente Costrittore"
+    },
+    {
+      "id": "mmCopperDragonWy",
+      "name": "Drago di Rame Cucciolo"
+    },
+    {
+      "id": "mmCouatl00000000",
+      "name": "Couatl"
+    },
+    {
+      "id": "mmCrab0000000000",
+      "name": "Granchio"
+    },
+    {
+      "id": "mmCrocodile00000",
+      "name": "Coccodrillo"
+    },
+    {
+      "id": "mmCultist0000000",
+      "name": "Cultista"
+    },
+    {
+      "id": "mmCultistFanatic",
+      "name": "Cultista"
     },
     {
       "id": "mmDarkmantle0000",
       "name": "Mantoscuro"
     },
     {
+      "id": "mmDeathDog000000",
+      "name": "Cane della Morte"
+    },
+    {
+      "id": "mmDeer0000000000",
+      "name": "Daino"
+    },
+    {
+      "id": "mmDeva0000000000",
+      "name": "Deva"
+    },
+    {
+      "id": "mmDireWolf000000",
+      "name": "Lupo Feroce"
+    },
+    {
+      "id": "mmDjinni00000000",
+      "name": "Djinni"
+    },
+    {
+      "id": "mmDoppelganger00",
+      "name": "Doppelganger"
+    },
+    {
+      "id": "mmDraftHorse0000",
+      "name": "Cavallo da Tiro"
+    },
+    {
+      "id": "mmDragonTurtle00",
+      "name": "Testuggine Dragona"
+    },
+    {
+      "id": "mmDretch00000000",
+      "name": "Dretch"
+    },
+    {
+      "id": "mmDrider00000000",
+      "name": "Drider"
+    },
+    {
+      "id": "mmDruid000000000",
+      "name": "Druido"
+    },
+    {
+      "id": "mmDryad000000000",
+      "name": "Driade"
+    },
+    {
+      "id": "mmDustMephit0000",
+      "name": "Mephit della Polvere"
+    },
+    {
+      "id": "mmEagle000000000",
+      "name": "Aquila"
+    },
+    {
+      "id": "mmEarthElemental",
+      "name": "Elementale della Terra"
+    },
+    {
+      "id": "mmEfreeti0000000",
+      "name": "Efreeti"
+    },
+    {
+      "id": "mmElephant000000",
+      "name": "Elefante"
+    },
+    {
+      "id": "mmElk00000000000",
+      "name": "Alce"
+    },
+    {
+      "id": "mmErinyes0000000",
+      "name": "Erinni"
+    },
+    {
+      "id": "mmEttercap000000",
+      "name": "Ettercap"
+    },
+    {
+      "id": "mmEttin000000000",
+      "name": "Ettin"
+    },
+    {
+      "id": "mmFireElemental0",
+      "name": "Elementale del Fuoco"
+    },
+    {
+      "id": "mmFireGiant00000",
+      "name": "Gigante del Fuoco"
+    },
+    {
+      "id": "mmFleshGolem0000",
+      "name": "Golem di Carne"
+    },
+    {
+      "id": "mmFlyingSnake000",
+      "name": "Serpente Volante"
+    },
+    {
+      "id": "mmFrog0000000000",
+      "name": "Rana"
+    },
+    {
+      "id": "mmFrostGiant0000",
+      "name": "Gigante del Gelo"
+    },
+    {
+      "id": "mmGargoyle000000",
+      "name": "Gargoyle"
+    },
+    {
+      "id": "mmGelatinousCube",
+      "name": "Cubo Gelatinoso"
+    },
+    {
+      "id": "mmGhast000000000",
+      "name": "Ghast"
+    },
+    {
+      "id": "mmGhost000000000",
+      "name": "Fantasma"
+    },
+    {
+      "id": "mmGhoul000000000",
+      "name": "Ghoul"
+    },
+    {
+      "id": "mmGiantApe000000",
+      "name": "Gorilla Gigante"
+    },
+    {
+      "id": "mmGiantBadger000",
+      "name": "Tasso Gigante"
+    },
+    {
+      "id": "mmGiantBat000000",
+      "name": "Pipistrello Gigante"
+    },
+    {
+      "id": "mmGiantBoar00000",
+      "name": "Cinghiale Gigante"
+    },
+    {
+      "id": "mmGiantCentipede",
+      "name": "Millepiedi Gigante"
+    },
+    {
+      "id": "mmGiantConstrict",
+      "name": "Serpente Costrittore Gigante"
+    },
+    {
+      "id": "mmGiantCrab00000",
+      "name": "Granchio Gigante"
+    },
+    {
+      "id": "mmGiantCrocodile",
+      "name": "Coccodrillo Gigante"
+    },
+    {
+      "id": "mmGiantEagle0000",
+      "name": "Aquila Gigante"
+    },
+    {
+      "id": "mmGiantElk000000",
+      "name": "Alce Gigante"
+    },
+    {
+      "id": "mmGiantFireBeetl",
+      "name": "Scarabeo di Fuoco Gigante"
+    },
+    {
+      "id": "mmGiantFrog00000",
+      "name": "Rana Gigante"
+    },
+    {
+      "id": "mmGiantGoat00000",
+      "name": "Capra Gigante"
+    },
+    {
+      "id": "mmGiantHyena0000",
+      "name": "Iena Gigante"
+    },
+    {
+      "id": "mmGiantLizard000",
+      "name": "Lucertola Gigante"
+    },
+    {
+      "id": "mmGiantOctopus00",
+      "name": "Piovra Gigante"
+    },
+    {
+      "id": "mmGiantOwl000000",
+      "name": "Gufo Gigante"
+    },
+    {
+      "id": "mmGiantRat000000",
+      "name": "Topo Gigante"
+    },
+    {
+      "id": "mmGiantScorpion0",
+      "name": "Scorpione Gigante"
+    },
+    {
+      "id": "mmGiantSeahorse0",
+      "name": "Cavalluccio Marino Gigante"
+    },
+    {
+      "id": "mmGiantShark0000",
+      "name": "Squalo Gigante"
+    },
+    {
+      "id": "mmGiantSpider000",
+      "name": "Ragno Gigante"
+    },
+    {
+      "id": "mmGiantToad00000",
+      "name": "Rospo Gigante"
+    },
+    {
+      "id": "mmGiantVenomousS",
+      "name": "Serpente Velenoso Gigante"
+    },
+    {
+      "id": "mmGiantVulture00",
+      "name": "Avvoltoio Gigante"
+    },
+    {
+      "id": "mmGiantWasp00000",
+      "name": "Vespa Gigante"
+    },
+    {
+      "id": "mmGiantWeasel000",
+      "name": "Donnola Gigante"
+    },
+    {
+      "id": "mmGiantWolfSpide",
+      "name": "Ragno Lupo Gigante"
+    },
+    {
       "id": "mmGibberingMouth",
       "name": "Fauce Gorgogliante"
+    },
+    {
+      "id": "mmGlabrezu000000",
+      "name": "Glabrezu"
+    },
+    {
+      "id": "mmGladiator00000",
+      "name": "Gladiatore"
+    },
+    {
+      "id": "mmGnollWarrior00",
+      "name": "Gnoll"
+    },
+    {
+      "id": "mmGoat0000000000",
+      "name": "Capra"
+    },
+    {
+      "id": "mmGoblinBoss0000",
+      "name": "Goblin"
+    },
+    {
+      "id": "mmGoblinMinion00",
+      "name": "Goblin"
+    },
+    {
+      "id": "mmGoblinWarrior0",
+      "name": "Goblin"
+    },
+    {
+      "id": "mmGoldDragonWyrm",
+      "name": "Drago d'Oro Cucciolo"
+    },
+    {
+      "id": "mmGorgon00000000",
+      "name": "Gorgone"
+    },
+    {
+      "id": "mmGrayOoze000000",
+      "name": "Melma Grigia"
+    },
+    {
+      "id": "mmGreenDragonWyr",
+      "name": "Drago Verde Cucciolo"
+    },
+    {
+      "id": "mmGreenHag000000",
+      "name": "Megera Verde"
     },
     {
       "id": "mmGrick000000000",
       "name": "Grick"
     },
     {
+      "id": "mmGriffon0000000",
+      "name": "Grifone"
+    },
+    {
       "id": "mmGrimlock000000",
       "name": "Grimlock"
+    },
+    {
+      "id": "mmGuard000000000",
+      "name": "Guardia"
+    },
+    {
+      "id": "mmGuardCaptain00",
+      "name": "Guardia"
+    },
+    {
+      "id": "mmGuardianNaga00",
+      "name": "Naga Guardiana"
+    },
+    {
+      "id": "mmHalfdragon0000",
+      "name": "Mezzo Drago"
+    },
+    {
+      "id": "mmHarpy000000000",
+      "name": "Arpia"
+    },
+    {
+      "id": "mmHawk0000000000",
+      "name": "Falco"
+    },
+    {
+      "id": "mmHellHound00000",
+      "name": "Segugio Infernale"
+    },
+    {
+      "id": "mmHezrou00000000",
+      "name": "Hezrou"
+    },
+    {
+      "id": "mmHillGiant00000",
+      "name": "Gigante delle Colline"
+    },
+    {
+      "id": "mmHippogriff0000",
+      "name": "Ippogrifo"
+    },
+    {
+      "id": "mmHippopotamus00",
+      "name": "Ippopotamo"
+    },
+    {
+      "id": "mmHobgoblinCapta",
+      "name": "Hobgoblin"
+    },
+    {
+      "id": "mmHobgoblinWarri",
+      "name": "Hobgoblin"
+    },
+    {
+      "id": "mmHomunculus0000",
+      "name": "Omunculo"
+    },
+    {
+      "id": "mmHornedDevil000",
+      "name": "Diavolo Cornuto"
+    },
+    {
+      "id": "mmHunterShark000",
+      "name": "Squalo Cacciatore"
+    },
+    {
+      "id": "mmHydra000000000",
+      "name": "Idra"
+    },
+    {
+      "id": "mmHyena000000000",
+      "name": "Iena"
+    },
+    {
+      "id": "mmIceDevil000000",
+      "name": "Diavolo del Ghiaccio"
+    },
+    {
+      "id": "mmIceMephit00000",
+      "name": "Ice Mephit"
+    },
+    {
+      "id": "mmImp00000000000",
+      "name": "Imp"
+    },
+    {
+      "id": "mmIncubus0000000",
+      "name": "Succube/Incubo"
+    },
+    {
+      "id": "mmInvisibleStalk",
+      "name": "Cacciatore Invisibile"
+    },
+    {
+      "id": "mmIronGolem00000",
+      "name": "Golem di Ferro"
+    },
+    {
+      "id": "mmJackal00000000",
+      "name": "Sciacallo"
+    },
+    {
+      "id": "mmKillerWhale000",
+      "name": "Orca Assassina"
+    },
+    {
+      "id": "mmKnight00000000",
+      "name": "Cavaliere"
+    },
+    {
+      "id": "mmKoboldWarrior0",
+      "name": "Coboldo"
+    },
+    {
+      "id": "mmKraken00000000",
+      "name": "Kraken"
+    },
+    {
+      "id": "mmLamia000000000",
+      "name": "Lamia"
+    },
+    {
+      "id": "mmLemure00000000",
+      "name": "Lemure"
+    },
+    {
+      "id": "mmLich0000000000",
+      "name": "Lich"
+    },
+    {
+      "id": "mmLion0000000000",
+      "name": "Leone"
+    },
+    {
+      "id": "mmLizard00000000",
+      "name": "Lucertola"
+    },
+    {
+      "id": "mmMage0000000000",
+      "name": "Mago"
+    },
+    {
+      "id": "mmMagmaMephit000",
+      "name": "Magma Mephit"
+    },
+    {
+      "id": "mmMagmin00000000",
+      "name": "Magmin"
+    },
+    {
+      "id": "mmMammoth0000000",
+      "name": "Mammut"
+    },
+    {
+      "id": "mmManticore00000",
+      "name": "Manticora"
+    },
+    {
+      "id": "mmMarilith000000",
+      "name": "Marilith"
+    },
+    {
+      "id": "mmMastiff0000000",
+      "name": "Mastino"
+    },
+    {
+      "id": "mmMedusa00000000",
+      "name": "Medusa"
+    },
+    {
+      "id": "mmMerfolkSkirmis",
+      "name": "Marinide"
+    },
+    {
+      "id": "mmMerrow00000000",
+      "name": "Merrow"
+    },
+    {
+      "id": "mmMimic000000000",
+      "name": "Mimic"
+    },
+    {
+      "id": "mmMinotaurOfBaph",
+      "name": "Minotauro di Baphomet"
+    },
+    {
+      "id": "mmMinotaurSkelet",
+      "name": "Scheletro Minotauro"
+    },
+    {
+      "id": "mmMule0000000000",
+      "name": "Mulo"
+    },
+    {
+      "id": "mmMummy000000000",
+      "name": "Mummia"
+    },
+    {
+      "id": "mmMummyLord00000",
+      "name": "Signore delle Mummie"
+    },
+    {
+      "id": "mmNalfeshnee0000",
+      "name": "Nalfeshnee"
+    },
+    {
+      "id": "mmNightHag000000",
+      "name": "Megera Notturna"
+    },
+    {
+      "id": "mmNightmare00000",
+      "name": "Cavallo degli Incubi"
+    },
+    {
+      "id": "mmNoble000000000",
+      "name": "Nobile"
+    },
+    {
+      "id": "mmOchreJelly0000",
+      "name": "Ameba Paglierina"
+    },
+    {
+      "id": "mmOctopus0000000",
+      "name": "Piovra"
+    },
+    {
+      "id": "mmOgre0000000000",
+      "name": "Ogre"
+    },
+    {
+      "id": "mmOgreZombie0000",
+      "name": "Zombi Ogre"
+    },
+    {
+      "id": "mmOni00000000000",
+      "name": "Oni"
     },
     {
       "id": "mmOtyugh00000000",
       "name": "Otyugh"
     },
     {
+      "id": "mmOwl00000000000",
+      "name": "Gufo"
+    },
+    {
+      "id": "mmOwlbear0000000",
+      "name": "Orsogufo"
+    },
+    {
+      "id": "mmPanther0000000",
+      "name": "Pantera"
+    },
+    {
+      "id": "mmPegasus0000000",
+      "name": "Pegaso"
+    },
+    {
+      "id": "mmPhaseSpider000",
+      "name": "Ragno-Fase"
+    },
+    {
+      "id": "mmPiranha0000000",
+      "name": "Piranha"
+    },
+    {
+      "id": "mmPirate00000000",
+      "name": "Pirata"
+    },
+    {
+      "id": "mmPirateCaptain0",
+      "name": "Capitano Pirata"
+    },
+    {
+      "id": "mmPitFiend000000",
+      "name": "Diavolo della Fossa"
+    },
+    {
+      "id": "mmPlanetar000000",
+      "name": "Planetar"
+    },
+    {
+      "id": "mmPlesiosaurus00",
+      "name": "Plesiosauro"
+    },
+    {
+      "id": "mmPolarBear00000",
+      "name": "Orso Polare"
+    },
+    {
+      "id": "mmPony0000000000",
+      "name": "Pony"
+    },
+    {
+      "id": "mmPriest00000000",
+      "name": "Sacerdote"
+    },
+    {
+      "id": "mmPriestAcolyte0",
+      "name": "Accolito"
+    },
+    {
+      "id": "mmPseudodragon00",
+      "name": "Pseudodrago"
+    },
+    {
+      "id": "mmPteranodon0000",
+      "name": "Pteranodonte"
+    },
+    {
+      "id": "mmPurpleWorm0000",
+      "name": "Verme Purpureo"
+    },
+    {
+      "id": "mmQuasit00000000",
+      "name": "Quasit"
+    },
+    {
+      "id": "mmRakshasa000000",
+      "name": "Rakshasa"
+    },
+    {
+      "id": "mmRat00000000000",
+      "name": "Topo"
+    },
+    {
+      "id": "mmRaven000000000",
+      "name": "Corvo"
+    },
+    {
+      "id": "mmRedDragonWyrml",
+      "name": "Drago Rosso Cucciolo"
+    },
+    {
+      "id": "mmReefShark00000",
+      "name": "Squalo Tropicale"
+    },
+    {
+      "id": "mmRemorhaz000000",
+      "name": "Remorhaz"
+    },
+    {
+      "id": "mmRhinoceros0000",
+      "name": "Rinoceronte"
+    },
+    {
+      "id": "mmRidingHorse000",
+      "name": "Riding Horse"
+    },
+    {
+      "id": "mmRoc00000000000",
+      "name": "Roc"
+    },
+    {
       "id": "mmRoper000000000",
       "name": "Fustigatore"
     },
     {
-      "id": "mmAllosaurus0000",
-      "name": "Allosauro"
+      "id": "mmRustMonster000",
+      "name": "Rugginofago"
+    },
+    {
+      "id": "mmSabertoothedTi",
+      "name": "Tigre dai Denti a Sciabola"
+    },
+    {
+      "id": "mmSahuaginWarrio",
+      "name": "Sahuagin"
+    },
+    {
+      "id": "mmSalamander0000",
+      "name": "Salamandra"
+    },
+    {
+      "id": "mmSatyr000000000",
+      "name": "Satiro"
+    },
+    {
+      "id": "mmScorpion000000",
+      "name": "Scorpione"
+    },
+    {
+      "id": "mmScout000000000",
+      "name": "Esploratore"
+    },
+    {
+      "id": "mmSeaHag00000000",
+      "name": "Megera Marina"
+    },
+    {
+      "id": "mmSeahorse000000",
+      "name": "Cavalluccio Marino"
+    },
+    {
+      "id": "mmShadow00000000",
+      "name": "Ombra"
+    },
+    {
+      "id": "mmShamblingMound",
+      "name": "Cumulo Strisciante"
+    },
+    {
+      "id": "mmShieldGuardian",
+      "name": "Guardiano Protettore"
+    },
+    {
+      "id": "mmShriekerFungus",
+      "name": "Boleto Stridente"
+    },
+    {
+      "id": "mmSilverDragonWy",
+      "name": "Drago d'Argento Cucciolo"
+    },
+    {
+      "id": "mmSkeleton000000",
+      "name": "Scheletro"
+    },
+    {
+      "id": "mmSolar000000000",
+      "name": "Solar"
+    },
+    {
+      "id": "mmSpecter0000000",
+      "name": "Spettro"
+    },
+    {
+      "id": "mmSphinxOfLore00",
+      "name": "Sfinge della Conoscenza"
+    },
+    {
+      "id": "mmSphinxOfValor0",
+      "name": "Sfinge del Valore"
+    },
+    {
+      "id": "mmSphinxOfWonder",
+      "name": "Sfinge della Meraviglia"
+    },
+    {
+      "id": "mmSpider00000000",
+      "name": "Ragno"
+    },
+    {
+      "id": "mmSpiritNaga0000",
+      "name": "Naga Spirituale"
+    },
+    {
+      "id": "mmSprite00000000",
+      "name": "Spiritello"
+    },
+    {
+      "id": "mmSpy00000000000",
+      "name": "Spia"
+    },
+    {
+      "id": "mmSteamMephit000",
+      "name": "Mephit del Vapore"
+    },
+    {
+      "id": "mmStirge00000000",
+      "name": "Stirge"
+    },
+    {
+      "id": "mmStoneGiant0000",
+      "name": "Gigante delle Pietre"
+    },
+    {
+      "id": "mmStoneGolem0000",
+      "name": "Golem di Pietra"
+    },
+    {
+      "id": "mmStormGiant0000",
+      "name": "Gigante delle Tempeste"
+    },
+    {
+      "id": "mmSuccubus000000",
+      "name": "Succube/Incubo"
+    },
+    {
+      "id": "mmSwarmOfBats000",
+      "name": "Sciame di Pipistrelli"
+    },
+    {
+      "id": "mmSwarmOfCrawlin",
+      "name": "Sciame di Artigli Rampanti"
+    },
+    {
+      "id": "mmSwarmOfInsects",
+      "name": "Sciame di Insetti"
+    },
+    {
+      "id": "mmSwarmOfPiranha",
+      "name": "Sciame di Piranha"
+    },
+    {
+      "id": "mmSwarmOfRats000",
+      "name": "Sciame di Ratti"
+    },
+    {
+      "id": "mmSwarmOfRavens0",
+      "name": "Sciame di Corvi"
+    },
+    {
+      "id": "mmSwarmOfVenomou",
+      "name": "Sciame di Serpenti Velenosi"
+    },
+    {
+      "id": "mmTarrasque00000",
+      "name": "Tarrasque"
+    },
+    {
+      "id": "mmTiger000000000",
+      "name": "Tiger"
+    },
+    {
+      "id": "mmTough000000000",
+      "name": "Robusto"
+    },
+    {
+      "id": "mmToughBoss00000",
+      "name": "Boss Robusto"
+    },
+    {
+      "id": "mmTreant00000000",
+      "name": "Treant"
+    },
+    {
+      "id": "mmTriceratops000",
+      "name": "Triceratopo"
+    },
+    {
+      "id": "mmTroll000000000",
+      "name": "Troll"
+    },
+    {
+      "id": "mmTrollLimb00000",
+      "name": "Troll"
+    },
+    {
+      "id": "mmTyrannosaurusR",
+      "name": "Tirannosauro"
+    },
+    {
+      "id": "mmUnicorn0000000",
+      "name": "Unicorno"
+    },
+    {
+      "id": "mmVampire0000000",
+      "name": "Vampiro"
+    },
+    {
+      "id": "mmVampireFamilia",
+      "name": "Vampiro"
+    },
+    {
+      "id": "mmVampireSpawn00",
+      "name": "Progenie Vampirica"
+    },
+    {
+      "id": "mmVenomousSnake0",
+      "name": "Serpente Velenoso"
+    },
+    {
+      "id": "mmVioletFungus00",
+      "name": "Fungo Viola"
+    },
+    {
+      "id": "mmVrock000000000",
+      "name": "Vrock"
+    },
+    {
+      "id": "mmVulture0000000",
+      "name": "Avvoltoio"
+    },
+    {
+      "id": "mmWarhorse000000",
+      "name": "Cavallo da Guerra"
+    },
+    {
+      "id": "mmWarhorseSkelet",
+      "name": "Scheletro Cavallo da Guerra"
+    },
+    {
+      "id": "mmWarriorInfantr",
+      "name": "Guerriero di Fanteria"
+    },
+    {
+      "id": "mmWarriorVeteran",
+      "name": "Veterano"
+    },
+    {
+      "id": "mmWaterElemental",
+      "name": "Elementale dell'Acqua"
+    },
+    {
+      "id": "mmWeasel00000000",
+      "name": "Donnola"
+    },
+    {
+      "id": "mmWerebear000000",
+      "name": "Orso Mannaro"
+    },
+    {
+      "id": "mmWereboar000000",
+      "name": "Cinghiale Mannaro"
+    },
+    {
+      "id": "mmWererat0000000",
+      "name": "Topo Mannaro"
+    },
+    {
+      "id": "mmWeretiger00000",
+      "name": "Tigre Mannara"
+    },
+    {
+      "id": "mmWerewolf000000",
+      "name": "Lupo Mannaro"
+    },
+    {
+      "id": "mmWhiteDragonWyr",
+      "name": "Drago Bianco Cucciolo"
+    },
+    {
+      "id": "mmWight000000000",
+      "name": "Wight"
+    },
+    {
+      "id": "mmWillowisp00000",
+      "name": "Fuoco Fatuo"
+    },
+    {
+      "id": "mmWinterWolf0000",
+      "name": "Lupo Invernale"
+    },
+    {
+      "id": "mmWolf0000000000",
+      "name": "Lupo"
+    },
+    {
+      "id": "mmWorg0000000000",
+      "name": "Worg"
+    },
+    {
+      "id": "mmWraith00000000",
+      "name": "Wraith"
+    },
+    {
+      "id": "mmWyvern00000000",
+      "name": "Viverna"
+    },
+    {
+      "id": "mmXorn0000000000",
+      "name": "Xorn"
+    },
+    {
+      "id": "mmYoungBlackDrag",
+      "name": "Drago Nero Giovane"
+    },
+    {
+      "id": "mmYoungBlueDrago",
+      "name": "Drago Blu Giovane"
+    },
+    {
+      "id": "mmYoungBrassDrag",
+      "name": "Drago d'Ottone Giovane"
+    },
+    {
+      "id": "mmYoungBronzeDra",
+      "name": "Drago di Bronzo Giovane"
+    },
+    {
+      "id": "mmYoungCopperDra",
+      "name": "Drago di Rame Giovane"
+    },
+    {
+      "id": "mmYoungGoldDrago",
+      "name": "Drago d'Oro Giovane"
+    },
+    {
+      "id": "mmYoungGreenDrag",
+      "name": "Drago Verde Giovane"
+    },
+    {
+      "id": "mmYoungRedDragon",
+      "name": "Drago Rosso Giovane"
+    },
+    {
+      "id": "mmYoungSilverDra",
+      "name": "Drago d'Argento Giovane"
+    },
+    {
+      "id": "mmYoungWhiteDrag",
+      "name": "Drago Bianco Giovane"
+    },
+    {
+      "id": "mmZombie00000000",
+      "name": "Zombi"
+    },
+    {
+      "id": "phbConjuredEarth",
+      "name": "Elementale della Terra"
+    },
+    {
+      "id": "phbConjuredFireE",
+      "name": "Elementale del Fuoco"
+    },
+    {
+      "id": "phbConjuredWater",
+      "name": "Elementale dell'Acqua"
+    },
+    {
+      "id": "phbDuplicate0000",
+      "name": "Gatto"
+    },
+    {
+      "id": "phbInvisibleSens",
+      "name": "Sensore Invisibile"
+    },
+    {
+      "id": "phbSpectralAnima",
+      "name": "Animali Evocati"
+    },
+    {
+      "id": "phbginGiantCenti",
+      "name": "Millepiedi Gigante"
+    },
+    {
+      "id": "phbginGiantSpide",
+      "name": "Ragno Gigante"
+    },
+    {
+      "id": "phbginGiantWasp0",
+      "name": "Vespa Gigante"
+    },
+    {
+      "id": "phbhaoAnimatedOb",
+      "name": "Oggetto Animato Enorme"
+    },
+    {
+      "id": "phbiluCreature00",
+      "name": "Creatura Illusoria"
+    },
+    {
+      "id": "phbiluObject0000",
+      "name": "Oggetto Illusorio"
+    },
+    {
+      "id": "phbiluSensory000",
+      "name": "Fenomeno Illusorio"
+    },
+    {
+      "id": "phblaoAnimatedOb",
+      "name": "Oggetto Animato Grande"
+    },
+    {
+      "id": "phbmaoAnimatedOb",
+      "name": "Oggetto Animato Medio"
+    },
+    {
+      "id": "phbmobDraconicSp",
+      "name": "Spirito Draconico"
+    },
+    {
+      "id": "phbmobFaithfulHo",
+      "name": "Segugio Fedele"
+    },
+    {
+      "id": "phbmobGalley0000",
+      "name": "Galea"
+    },
+    {
+      "id": "phbmobGiantInsec",
+      "name": "Insetto Gigante"
+    },
+    {
+      "id": "phbmobKeelboat00",
+      "name": "Chiatta"
+    },
+    {
+      "id": "phbmobLongship00",
+      "name": "Drakkar"
+    },
+    {
+      "id": "phbmobOtherworld",
+      "name": "Destriero di Altri Mondi"
+    },
+    {
+      "id": "phbmobRowboat000",
+      "name": "Barca a Remi"
+    },
+    {
+      "id": "phbmobSailingShi",
+      "name": "Vascello"
+    },
+    {
+      "id": "phbmobWarship000",
+      "name": "Nave da Guerra"
+    },
+    {
+      "id": "phbostCelestial0",
+      "name": "Destriero Celestiale"
+    },
+    {
+      "id": "phbostFey0000000",
+      "name": "Destriero Fatato"
+    },
+    {
+      "id": "phbostFiend00000",
+      "name": "Destriero Demoniaco"
+    },
+    {
+      "id": "phbsaoAnimatedOb",
+      "name": "Oggetto Animato Piccolo"
+    },
+    {
+      "id": "phbsplArcaneEye0",
+      "name": "Occhio Arcano"
+    },
+    {
+      "id": "phbsplBigbysHand",
+      "name": "Mano di Bigby"
+    },
+    {
+      "id": "phbsplConjuredEl",
+      "name": "Elementale dell'Aria"
+    },
+    {
+      "id": "phbsplConjuredFe",
+      "name": "Fate Evocate"
+    },
+    {
+      "id": "phbsplFlamingSph",
+      "name": "Sfera Fiammeggiante"
+    },
+    {
+      "id": "phbsplFloatingDi",
+      "name": "Disco Fluttuante"
+    },
+    {
+      "id": "phbsplGuardianof",
+      "name": "Guardiano della Fede"
+    },
+    {
+      "id": "phbsplLight00000",
+      "name": "Luce"
+    },
+    {
+      "id": "phbsplMageHand00",
+      "name": "Mano del Mago"
+    },
+    {
+      "id": "phbsplMediumDanc",
+      "name": "Luci Danzanti (Medio)"
+    },
+    {
+      "id": "phbsplMordSword0",
+      "name": "Spada Arcano"
+    },
+    {
+      "id": "phbsplSecretChes",
+      "name": "Baule Segreto"
+    },
+    {
+      "id": "phbsplSpiritualW",
+      "name": "Arma Spirituale"
+    },
+    {
+      "id": "phbsplTinyDancin",
+      "name": "Luci Danzanti (Minuscolo)"
+    },
+    {
+      "id": "phbsplUnseenServ",
+      "name": "Servitore Invisibile"
+    },
+    {
+      "id": "phbsumPhantomSte",
+      "name": "Destriero Fantasma"
+    },
+    {
+      "id": "phbtaoAnimatedOb",
+      "name": "Oggetto Animato Minuscolo"
     }
   ]
 }
